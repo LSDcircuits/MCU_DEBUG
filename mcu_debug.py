@@ -7,7 +7,7 @@ from PySide6.QtWidgets import (
 )
 from PySide6.QtCore import QThread, Signal
 
-
+#set myngoal to complete this code soon, for school and my self.
 class SerialReader(QThread):
     data_received = Signal(str)
     disconnected = Signal(str)

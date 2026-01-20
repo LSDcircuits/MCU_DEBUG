@@ -1,3 +1,6 @@
+# temporary file to not be hsed for the MCU DEBUG 
+# used for monitoring printf from Mcu , UDP MCU carrier 
+
 import sys
 import serial
 import serial.tools.list_ports

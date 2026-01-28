@@ -32,6 +32,8 @@ class SystemState:
 
 class Bridge(QObject):
     update_signal = Signal(int, int, object, str)
+    # aguments emit(PAPI, distance, delta, USstatus)
+    # delta is obj due to in declaration called none
 
 bridge = Bridge()
 
@@ -106,7 +108,7 @@ class Monitor(threading.Thread):
                 deldistance = self.state.deldistance
                 USstatus = self.state.USstatus
 
-            # Send data to GUI instead of print
+            # send data to GUI instead of print
             bridge.update_signal.emit(PAPI, distance, deldistance, USstatus)
             time.sleep(0.1)
 
@@ -148,3 +150,4 @@ try:
     sys.exit(app.exec())
 finally:
     state.running = False
+

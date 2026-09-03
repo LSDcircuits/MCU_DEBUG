@@ -1,0 +1,624 @@
+{
+  "questions": [
+    {
+      "id": "QA-001",
+      "category": "Numbers & Limits",
+      "exercise": "6 Straight and Level",
+      "type": "mcq",
+      "prompt": "According to the QRC, what is the speed for straight and level flight in Exercise 6?",
+      "choices": [
+        "80 KIAS",
+        "90 KIAS",
+        "110 KIAS",
+        "75 KIAS"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 6 step 3 states: 'Speed 110 KIAS (±65% power setting)'.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-002",
+      "category": "Numbers & Limits",
+      "exercise": "6 Straight and Level",
+      "type": "mcq",
+      "prompt": "What power setting does the QRC specify for straight and level flight at 110 KIAS?",
+      "choices": [
+        "±45% power",
+        "±20% power",
+        "100% (full power)",
+        "±65% power"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 6 step 3: 'Speed 110 KIAS (±65% power setting)'.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "id": "QA-003",
+      "category": "Numbers & Limits",
+      "exercise": "6 Straight and Level",
+      "type": "numeric",
+      "prompt": "Enter the QRC speed and power setting for straight and level flight (Exercise 6).",
+      "parts": [
+        {
+          "label": "Speed",
+          "answer": 110,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Power setting",
+          "answer": 65,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 6 step 3: 'Speed 110 KIAS (±65% power setting)'.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-004",
+      "category": "Procedures",
+      "exercise": "6 Straight and Level",
+      "type": "sequence",
+      "prompt": "Put the initial steps for establishing straight and level flight (Exercise 6) in the correct order.",
+      "steps": [
+        "Look out – select an outside reference point",
+        "Pitch for horizontal flight",
+        "Speed 110 KIAS (±65% power setting)",
+        "Trim as required",
+        "Maintain wings level using ailerons",
+        "Maintain coordinated flight using rudder (ball centered)"
+      ],
+      "explanation": "These are steps 1–6 of 'Straight and level flight' in Exercise 6, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "procedure",
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-005",
+      "category": "Procedures",
+      "exercise": "6 Straight and Level",
+      "type": "mcq",
+      "prompt": "Which item is included in the 'Look out and check' list for straight and level flight in the QRC?",
+      "choices": [
+        "Landing light ON",
+        "Transponder ALT",
+        "Fuel quantity and fuel balance",
+        "Pitot heat ON"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 6 step 7 lists: fuel quantity and fuel balance, radio, engine instruments, direction (outside reference point), altitude. The other options are take-off line-up items from Exercise 12, not the Exercise 6 check list.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "procedure",
+        "checks"
+      ]
+    },
+    {
+      "id": "QA-006",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "numeric",
+      "prompt": "Enter the QRC climb speed and the power setting used when approaching that speed during the transition to climb.",
+      "parts": [
+        {
+          "label": "Climb speed",
+          "answer": 80,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Power setting",
+          "answer": 100,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 7 'Transition to climb': step 3 'Pitch for climb attitude (80 KIAS)', step 4 'Approaching 80 KIAS, set full power (100%)'.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-007",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "mcq",
+      "prompt": "During the transition to climb, when does the QRC say to set full power (100%)?",
+      "choices": [
+        "Before pitching for the climb attitude",
+        "Approaching 80 KIAS",
+        "Approaching 110 KIAS",
+        "±20 ft before the target altitude"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 7 'Transition to climb' step 4: 'Approaching 80 KIAS, set full power (100%)'.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-008",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "mcq",
+      "prompt": "How far before the target altitude does the QRC say to begin the level-off from a climb?",
+      "choices": [
+        "±50 ft before",
+        "±100 ft before",
+        "±20 ft before",
+        "±200 ft before"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 7 'Level-off from climb' step 1: '±20 ft before target altitude, set pitch for horizontal flight'. (±50 ft applies to level-off from descent for approach; ±100 ft to level-off from glide descent.)",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "altitude"
+      ]
+    },
+    {
+      "id": "QA-009",
+      "category": "Procedures",
+      "exercise": "7 Climbing",
+      "type": "sequence",
+      "prompt": "Put the steps of the transition to climb (Exercise 7) in the correct order.",
+      "steps": [
+        "Look out – scan for traffic and select an outside reference point",
+        "Check engine instruments",
+        "Pitch for climb attitude (80 KIAS)",
+        "Approaching 80 KIAS, set full power (100%)",
+        "Maintain coordinated flight using rudder (ball centered)",
+        "Trim as required"
+      ],
+      "explanation": "These are steps 1–6 of 'Transition to climb (80 KIAS)' in Exercise 7, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "procedure",
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-010",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "mcq",
+      "prompt": "During the level-off from a climb, what power is set when approaching 110 KIAS?",
+      "choices": [
+        "±65% power",
+        "±45% power",
+        "±20% power",
+        "Full power (100%)"
+      ],
+      "answer": 0,
+      "explanation": "Exercise 7 'Level-off from climb (110 KIAS)' step 4: 'Approaching 110 KIAS, ±65% power'.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-011",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "numeric",
+      "prompt": "Enter the QRC values for the transition to cruise descent: power setting, standard descent rate, and speed.",
+      "parts": [
+        {
+          "label": "Power setting",
+          "answer": 20,
+          "tolerance": 0,
+          "unit": "%"
+        },
+        {
+          "label": "Standard descent rate",
+          "answer": 500,
+          "tolerance": 0,
+          "unit": "ft/min"
+        },
+        {
+          "label": "Speed",
+          "answer": 110,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "Exercise 8 'Transition to cruise descent': step 1 'Reduce power to ±20% (standard descent 500 ft/min)', step 2 'Pitch to maintain 110 KIAS'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "power",
+        "rate",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-012",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "For the level-off from a cruise descent, the QRC says to increase power to ±65% how far before the target altitude?",
+      "choices": [
+        "±20 ft before",
+        "±50 ft before",
+        "±100 ft before",
+        "±500 ft before"
+      ],
+      "answer": 0,
+      "explanation": "Exercise 8 'Level-off from cruise descent' step 1: '±20 ft before the target altitude, increase power to ±65%'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "altitude",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-013",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "What is the target speed for the descent for approach, and to what power is the lever reduced during the transition?",
+      "choices": [
+        "75 KIAS, power idle",
+        "90 KIAS, power smoothly reduced to ±20%",
+        "110 KIAS, power reduced to ±65%",
+        "80 KIAS, full power (100%)"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 8 'Transition to descent for approach (90 KIAS)': step 2 'Power – smoothly reduce power lever to ±20%', step 3 decelerate to 90 KIAS and set pitch attitude to capture the descent.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-014",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "numeric",
+      "prompt": "For the level-off from a descent for approach, enter how far before the target altitude the level-off begins and the level flight power setting.",
+      "parts": [
+        {
+          "label": "Begin level-off before target altitude",
+          "answer": 50,
+          "tolerance": 0,
+          "unit": "ft"
+        },
+        {
+          "label": "Level flight power setting",
+          "answer": 45,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 8 'Level-off from descent for approach (90 KIAS)' step 1: '±50 ft before target altitude, smoothly increase power to level flight setting (±45%)'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "altitude",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-015",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "What power and speed does the QRC specify for the glide descent?",
+      "choices": [
+        "Power ±20%, 110 KIAS",
+        "Power ±25%, 110 KIAS",
+        "Power ±45%, 90 KIAS",
+        "Power idle, 75 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 8 'Transition to glide descent (75 KIAS)': step 3 'Power idle', step 4 'Set pitch for gliding flight (75 KIAS)'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-016",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "How far before the target altitude does the QRC say to begin the level-off from a glide descent?",
+      "choices": [
+        "±20 ft before",
+        "±50 ft before",
+        "±100 ft before",
+        "±300 ft before"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 8 'Level-off from glide descent' step 1: '±100 ft before the target altitude, increase power to increase speed to 110 KIAS (±65% power)'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "altitude"
+      ]
+    },
+    {
+      "id": "QA-017",
+      "category": "Procedures",
+      "exercise": "8 Descending",
+      "type": "sequence",
+      "prompt": "Put the steps of the transition to glide descent (Exercise 8) in the correct order.",
+      "steps": [
+        "Look out – select an outside reference point",
+        "Check engine instruments",
+        "Power idle",
+        "Set pitch for gliding flight (75 KIAS)",
+        "Trim as required",
+        "Maintain wings level using ailerons",
+        "Maintain coordinated flight using rudder (ball centered)"
+      ],
+      "explanation": "These are steps 1–7 of 'Transition to glide descent (75 KIAS)' in Exercise 8, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "procedure",
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-018",
+      "category": "Numbers & Limits",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "What bank angle does the QRC specify for a normal coordinated turn?",
+      "choices": [
+        "20°",
+        "30°",
+        "45°",
+        "15°"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 9 'Normal coordinated turn (30° bank)' step 2: 'Roll into 30° bank, use rudder to counteract adverse yaw'. (45° is the steep turn in Exercise 15; 20° is the climbing turn maximum.)",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "bank"
+      ]
+    },
+    {
+      "id": "QA-019",
+      "category": "Numbers & Limits",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "What is the maximum bank angle permitted in a climbing turn according to the QRC?",
+      "choices": [
+        "30°",
+        "45°",
+        "20°",
+        "60°"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 9 'Climbing turn' step 3: 'Max. bank 20°, use rudder to counteract adverse yaw'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "bank"
+      ]
+    },
+    {
+      "id": "QA-020",
+      "category": "Numbers & Limits",
+      "exercise": "9 Turning",
+      "type": "numeric",
+      "prompt": "Enter the bank angle and power setting the QRC specifies for a descending turn (cruise descent established per Chapter 8).",
+      "parts": [
+        {
+          "label": "Bank angle",
+          "answer": 30,
+          "tolerance": 0,
+          "unit": "degrees"
+        },
+        {
+          "label": "Power setting",
+          "answer": 25,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 9 'Descending turn': step 2 'Establish cruise descent (as explained in Chapter 8, power ±25%)', step 3 'Bank 30°'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "bank",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-021",
+      "category": "Procedures",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "According to the QRC, why is rudder used when rolling into and out of a turn?",
+      "choices": [
+        "To keep the nose on the horizon",
+        "To maintain the bank angle",
+        "To control the rate of descent",
+        "To counteract adverse yaw"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 9 states for the normal coordinated turn, climbing turn and descending turn: 'use rudder to counteract adverse yaw'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "procedure",
+        "rudder"
+      ]
+    },
+    {
+      "id": "QA-022",
+      "category": "Procedures",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "Per the QRC, how is a descending turn established before banking into the turn?",
+      "choices": [
+        "Establish a normal climb (as explained in Exercise 7)",
+        "Establish a cruise descent (as explained in Chapter 8, power ±25%)",
+        "Set power idle and pitch for gliding flight (75 KIAS)",
+        "Set power ±45% and decelerate to 90 KIAS"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 9 'Descending turn' step 2: 'Establish cruise descent (as explained in Chapter 8, power ±25%)'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "procedure",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-023",
+      "category": "Procedures",
+      "exercise": "10A Slow Flight",
+      "type": "sequence",
+      "prompt": "Put the steps to decelerate from 110 to 60 KIAS (flaps T/O) in the correct order.",
+      "steps": [
+        "Look out – scan for traffic and select an outside reference point",
+        "Set power ±20%",
+        "Flaps T/O below 108 KIAS, adjust pitch",
+        "Maintain altitude / direction",
+        "Speed approaches 60 KIAS, set power ±35%",
+        "Trim"
+      ],
+      "explanation": "These are steps 1–6 of 'Decelerate from 110 to 60 KIAS (flaps T/O)' in Exercise 10A, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "procedure",
+        "speed",
+        "power",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QA-024",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "mcq",
+      "prompt": "Below what speed does the QRC say to select flaps T/O when decelerating from 110 to 60 KIAS?",
+      "choices": [
+        "Below 91 KIAS",
+        "Below 110 KIAS",
+        "Below 108 KIAS",
+        "Below 70 KIAS"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 10A 'Decelerate from 110 to 60 KIAS (flaps T/O)' step 3: 'flaps T/O below 108 KIAS, adjust pitch'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "speed",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QA-025",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "numeric",
+      "prompt": "When decelerating from 110 to 60 KIAS (flaps T/O), enter the power set at the start and the power set as the speed approaches 60 KIAS.",
+      "parts": [
+        {
+          "label": "Initial power setting",
+          "answer": 20,
+          "tolerance": 0,
+          "unit": "%"
+        },
+        {
+          "label": "Power at 60 KIAS",
+          "answer": 35,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 10A step 2 'Set power ±20%' and step 5 'Speed approaches 60 KIAS, set power ±35%'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-026",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "mcq",
+      "prompt": "When accelerating from 60 to 110 KIAS (flaps T/O), at what speed does the QRC say to select flaps up?",
+      "choices": [
+        "±60 KIAS",
+        "±65 KIAS",
+        "±80 KIAS",
+        "±70 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 10A 'Accelerate from 60 to 110 KIAS (flaps T/O)' step 2: 'Flaps up (speed ±70 KIAS), adjust pitch'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "speed",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QA-027",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "mcq",
+      "prompt": "When decelerating from 110 to 65 KIAS with flaps up, what power is set approaching 65 KIAS?",
+      "choices": [
+        "±20%",
+        "±35%",
+        "±45%",
+        "±65%"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 10A 'Decelerate from 110 to 65 KIAS (flaps up)' step 4: 'Approaching 65 KIAS, Power ±35%'. (±20% is the initial setting in step 2.)",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-028",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "numeric",
+      "prompt": "When accelerating from 60 to 110 KIAS (flaps T/O), enter the power set at the start of the acceleration and the power set approaching 110 KIAS.",
+      "parts": [
+        {
+          "label": "Power at start of acceleration",
+          "answer": 100,
+          "tolerance": 0,
+          "unit": "%"
+        },
+        {
+          "label": "Power approaching 110 KIAS",
+          "answer": 65,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 10A 'Accelerate from 60 to 110 KIAS (flaps T/O)': step 1 'Full power (100%)', step 4 'Approaching 110 KIAS, reduce power to ±65%'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    }
+  ]
+}

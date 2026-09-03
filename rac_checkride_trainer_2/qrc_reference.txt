@@ -1,0 +1,808 @@
+Rotterdamsche Aero Club
+Approved Training Organisation:NL-ATO-24
+RAC SOP – Quick Reference Card
+(QRC)
+QUICK REFERENCE CARD
+Document No.:RAC-SOP-QRC
+Version: v1.1
+Date: 17-07-2026
+Status: UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+This document isUNCONTROLLED WHEN PRINTED OR DOWNLOADED.
+The electronic version stored in the ATO’s document control system is the only controlled copy.
+CONFIDENTIALITY & COPYRIGHT NOTICE
+© Rotterdamsche Aero Club. All rights reserved. This document contains proprietary information and is intended solely for the use of
+Rotterdamsche Aero Club ATO personnel and students. Unauthorized distribution, copying, or disclosure is strictly prohibited.
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+Quick Reference Card (QRC)
+General Information
+This exercise schedule is based on ISA and applicable up to and including 3000 ft. For other
+situations consult the AFM. Chapter numbers correspond to the flight training exercise numbers
+as defined in EASA Part-FCL.
+6 Straight and level
+Straight and level flight
+1. Look out – select an outside reference point
+2. Pitch for horizontal flight
+3. Speed 110 KIAS (±65% power setting)
+4. Trim as required
+5. Maintain wings level using ailerons
+6. Maintain coordinated flight using rudder (ball
+centered)
+7. Look out and check:
+• Fuel quantity and fuel balance
+• Radio
+• Engine instruments
+• Direction (outside reference point)
+• Altitude
+7 Climbing
+Transition to climb (80 KIAS)
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Check engine instruments
+3. Pitch for climb attitude (80 KIAS)
+4. Approaching 80 KIAS, set full power (100%)
+5. Maintain coordinated flight using rudder (ball
+centered)
+6. Trim as required
+7. Look out and check:
+• Pitch attitude
+• Direction, wings level
+• Airspeed
+Level-off from climb (110 KIAS)
+1.±20 ft before target altitude, set pitch for hor-
+izontal flight
+2. Maintain wings level using ailerons
+3. Maintain coordinated flight using rudder (ball
+centered)
+4. Approaching 110 KIAS,±65% power
+5. Trim as required
+8 Descending
+Transition to cruise descent (110 KIAS)
+1. Reduce power to±20% (standard descent
+500 ft/min)
+2. Pitch to maintain 110 KIAS
+3. Trim as required
+4. Maintain wings level using ailerons
+5. Maintain coordinated flight using rudder (ball
+centered)
+6. Look out and check:
+• Pitch attitude
+• Direction, wings level
+• Airspeed
+Level-off from cruise descent
+1.±20 ft before the target altitude, increase
+power to±65%
+2. Pitch for horizontal flight
+3. Trim as required
+4. Maintain wings level using ailerons
+5. Maintain coordinated flight using rudder (ball
+centered)
+6. Speed 110 KIAS (±65% power)
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 1 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+Transition to descent for approach (90
+KIAS)
+1. Lookout – safety scan for traffic
+2. Power – smoothly reduce power lever to
+±20%
+3. Attitude – maintain backpressure to deceler-
+ate to 90 KIAS, then set pitch attitude to cap-
+ture descent
+4. Trim – trim as required to maintain 90 KIAS
+Level-off from descent for approach (90
+KIAS)
+1.±50 ft before target altitude, smoothly in-
+crease power to level flight setting (±45%)
+2. Attitude – pitch for horizontal flight (nose atti-
+tude is slightly higher than normal cruise)
+3. Trim – trim as required to maintain 90 KIAS
+Transition to glide descent (75 KIAS)
+1. Look out – select an outside reference point
+2. Check engine instruments
+3. Power idle
+4. Set pitch for gliding flight (75 KIAS)
+5. Trim as required
+6. Maintain wings level using ailerons
+7. Maintain coordinated flight using rudder (ball
+centered)
+8. Look out and check:
+• Pitch attitude
+• Direction, wings level
+• Airspeed
+Level-off from glide descent
+1.±100 ft before the target altitude, increase
+power to increase speed to 110 KIAS (±65%
+power)
+2. Pitch for horizontal flight
+3. Maintain wings level using ailerons
+4. Maintain coordinated flight using rudder (ball
+centered)
+9 Turning
+Normal coordinated turn (30◦ bank)
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Roll into 30 ◦ bank, use rudder to counteract
+adverse yaw
+3. Look out and check:
+• Bank / slip indicator
+• Altitude / pitch
+4. Roll out, use rudder to counteract adverse
+yaw
+Climbing turn
+1. Look out, check engine instruments
+2. Establish normal climb (as explained in Exer-
+cise 7)
+3. Max. bank 20 ◦, use rudder to counteract ad-
+verse yaw
+4. Look out and check:
+• Bank / slip indicator
+• Speed / pitch
+5. Roll out, stay coordinated
+6. Level-off (as explained in Exercise 7)
+Descending turn
+1. Look out
+2. Establish cruise descent (as explained in
+Chapter 8, power±25%)
+3. Bank 30 ◦, use rudder to counteract adverse
+yaw
+4. Look out and check:
+• Bank / slip indicator
+• Speed / pitch
+5. Look out, roll out, stay coordinated
+6. Level-off or continue descent (as explained in
+Chapter 8)
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 2 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+10A Slow flight
+Decelerate from 110 to 60 KIAS (flaps
+T/O)
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Set power±20%
+3. flaps T/O below 108 KIAS, adjust pitch
+4. Maintain altitude / direction
+5. Speed approaches 60 KIAS, set power±
+35%
+6. Trim
+Accelerate from 60 to 110 KIAS (flaps
+T/O)
+1. Full power (100%)
+2. Flaps up (speed±70 KIAS), adjust pitch
+3. Maintain altitude / direction
+4. Approaching 110 KIAS, reduce power to±
+65%
+5. Readjust pitch and trim
+6. Check horizontal flight
+Decelerate from 110 to 65 KIAS (flaps up)
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Set power±20%
+3. Readjust pitch and trim
+4. Approaching 65 KIAS, Power±35%
+5. Trim
+6. Maintain altitude / direction
+Accelerate from 65 to 110 KIAS (flaps up)
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Full power (100%)
+3. Maintain altitude / direction / engine instru-
+ments
+4. Approaching 110 KIAS, reduce power to
+±65%
+5. Readjust pitch and trim
+6. Check horizontal flight
+Accelerate from 65 KIAS to max speed
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Check engine instruments
+3. Full power (100%)
+4. Maintain altitude / direction
+5. Adjust pitch and trim
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 3 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+10B Stalling
+Crew briefing preceding the stall
+• Type of stall
+• Altitude to maintain and regain
+• Direction or heading to maintain
+Recovery of the stall is started at:
+Full stall
+Nose and/or wing drop or (excessive) rate
+of descent with full back pressure
+Approach to stall landing configuration
+Whichever comes first: stall warning, 5
+KIAS above the bottom white arc with
+flaps landing, or the buffet
+Approach to stall clean
+Whichever comes first: stall warning, 5
+KIAS above the bottom of the green arc
+with flaps landing, or the buffet
+Pre-stall checklist
+Inside inspection (before every stall, also
+appr. to the stall):
+1.Trim . . . . . . . Checked (trimmed for level flight)
+2.Flaps . . . . . . . . . . . . . . . . . . . . . . . .Retracted (UP)
+3.Engine . Checked (instruments in green, fuel
+balanced)
+4.Security Checked (harnesses tight, baggage
+stowed)
+Outside inspection (before every stall, also
+appr. to the stall):
+1.Altitude . . . . . . . . . . . . . . . . . . . . . . . . . . . . Checked
+2.Position . . . . . . . . . . . . . . . . . . . . . . . . . . . Checked
+3.Orientation . . . . . . . . . . . . . . . . . . . . . . . . Checked
+4.Sky . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Free
+Altitude:Recovered before:
+•Full Stall:Dual 2000 ft AGL, Solo 3000 ft
+AGL
+•Approach to the Stall:Dual 1500 ft AGL,
+Solo 2500 ft AGL
+Position:Never stall above:
+• Built up areas
+• Harbours and industrial areas
+• Populated areas
+• Airports / CTRs
+• Extended water areas
+• 4/8 clouds or more
+• Other traffic, etc.
+Orientation:Choose an outside reference point
+Sky:Make 90 ◦ right and left clearing turns or a
+left hand 180◦ turn to check the airspace ahead
+and below for other traffic
+Various stalls
+Full stall without flaps selected (clean)
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Power idle
+3. Maintain altitude, don’t use the trim
+4. Maintain coordinated flight
+5. Move the stick progressively backwards until
+the stall
+Full stall recovery with power (clean)
+1. Pitch down to reduce the angle of attack, si-
+multaneously call “RECOVER”
+2. Check for increasing speed (± 70 KIAS)
+3. Pitch up gently while moving the power lever
+gently forward to reach full power when the
+nose is passing through the horizon
+4. Maintain coordinated flight using rudder (ball
+centered)
+5. Pitch for climb attitude (80 KIAS)
+6. Climb back to original altitude
+7. Speed 110 KIAS (± 65%)
+Full stall recovery without power (clean)
+1. Pitch down to reduce the angle of attack, si-
+multaneously call “RECOVER”
+2. Check for increasing speed (± 70 KIAS)
+3. Maintain coordinated flight using rudder (ball
+centered)
+4. Adjust pitch for glide attitude (75 KIAS), trim
+5. When established in the glide, end the exer-
+cise and climb back to original altitude
+6. Speed 110 KIAS (± 65%)
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 4 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+Approach to stall in the landing configura-
+tion
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Reduce to downwind speed, power ± 20%
+3. Approaching 90 KIAS, power ± 45%
+4. Check speed below 108 KIAS, call “SPEED
+CHECKED”→select flaps take-off
+5. Power ± 15%
+6. Check speed below 91 KIAS, call “SPEED
+CHECKED”→select flaps landing
+7. Maintain altitude (don’t use the trim)
+8. Wait for the first indication of approaching the
+stall
+Approach to stall recovery in the landing
+configuration
+1. Recover at the stall warning, buffet or 5 KIAS
+above the bottom of the white arc, whichever
+comes first
+2. Pitch down slightly to reduce the angle of at-
+tack, simultaneously call “RECOVER”
+3. Smoothly apply full power (100%)
+4. Maintain coordinated flight using rudder (ball
+centered)
+5. Pull up gently, pitch for climb attitude
+6. Select flaps take-off
+7. Speed>70 KIAS, flaps up
+8. Climb back to previous altitude
+9. Speed 110 KIAS (± 65%)
+Approach to stall in descending turn in ap-
+proach configuration
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Reduce to downwind speed, power ± 20%
+3. Approaching 90 KIAS, power ± 45%
+4. Check speed below 108 KIAS, call “SPEED
+CHECKED”→select flaps take-off
+5. Power ± 15%
+6. Start descending turn with 20◦ bank
+7. Slowly raise the nose until airspeed bleeds off
+8. Wait for the first indication of approaching the
+stall
+Approach to stall recovery for descending
+turn in approach configuration
+1. Recovery at the stall warning, buffet or 5
+knots above the bottom of the white arc
+whichever comes first
+2. Pitch down to reduce the angle of attack, si-
+multaneously call “RECOVER”
+3. Roll wings level
+4. Smoothly apply full power (100%)
+5. Maintain coordinated flight using rudder (ball
+centered)
+6. Pitch for climb attitude (80 KIAS)
+7. Flaps up
+8. Climb back to original altitude
+Approach to stall in climbing turn with flaps
+retracted
+1. Look out, PID or heading
+2. Flaps up configuration
+3. Start climbing turn with 15◦ bank
+4. Slowly raise the nose until airspeed bleeds off
+5. Wait for a sign of the approaching stall
+Approach to stall recovery for climbing turn
+with flaps retracted
+1. Recovery at the stall warning, buffet or 5
+knots above the bottom of the green arc,
+whichever comes first
+2. Pitch down to reduce the angle of attack, si-
+multaneously call “RECOVER”
+3. Roll out of the turn
+4. Maintain full power, accelerate to 110 KIAS
+5. Maintain coordinated flight using rudder (ball
+centered)
+6. Climb or descent to desired altitude
+11 Spin avoidance
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 5 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+Wing dip recovery
+1. Power idle, ailerons neutral
+2. Call “Recover” simultaneous pitch down be-
+low glide attitude to break the stall
+3. Full opposite rudder with feet
+4. Neutralize the rudder with feet when rotation
+stops
+5. Check for increasing speed (±80 KIAS)
+6. Pull gently out of the dive, while moving the
+power lever gently forward, to reach full power
+when the nose is passing through the horizon.
+7. Direction with feet, no bank
+8. Adjust pitch for climb attitude (80 KIAS)
+9. Climb back to previous altitude
+Emergency recovery
+Just in case you don’t know the procedure any-
+more:
+1. Power idle
+2. Ailerons and elevator neutral
+3. Apply full opposite rudder against rotation
+4. Neutralize rudder
+5. Pull gently out of the dive, wings level
+6. Full power when nose is passing the horizon
+7. Climb back to desired altitude
+This general procedure is applicable for all
+JAR23 & FAR23 approved aircraft, provided
+mass & balance falls in the envelope and the
+aircraft is trimmed for cruise flight. Consult the
+AFM/Diamond for the DA40 specific procedure.
+12 Take-off and climb
+Normal take-off
+1. Confirm correct runway from signage / mark-
+ings. Call out: “Runway [number], identified”
+2. Scan the approach sector and the full length
+of the runway
+Call out: “Approach sector and runway clear”
+3. Line-up items:
+• Parking brakes released
+• Transponder ALT
+• Landing light on when clearance received
+• Pitot heat ON (in visible moisture or if OAT
+is below +5 ◦C)
+4. Line up on the runway centerline
+5. Check runway direction
+Call out: “Runway heading verified”
+6. Check the windsock, ailerons into the wind
+7. Heels on the floor, look down the end of the
+runway
+8. Set full power (100%)
+9. Maintain runway centreline using the rudder
+10. Check CED — power 100% / 2300 RPM / all
+indications green
+Call out: “Take-off power set”
+11. Confirm the airspeed indicator is reading
+Call out: “Airspeed alive”
+12. Reduce ailerons input when accelerating/
+keep glare shield parallel to horizon
+13. Rotate at 60 KIAS (Vr)
+14. Pitch for climb speed 70 KIAS
+15. Maintain runway track using ailerons
+16. Maintain coordination using the rudder (ball
+centered)
+17. Passing 200 ft AGL select flaps up
+18. Set pitch for climb 80 KIAS
+Crosswind take-off
+1. Proceed as normal take off (items 1–10)
+2.V r + max 5 KIAS during strong crosswind (1/2
+gust)
+3. Reduce ailerons input/keep glare shield par-
+allel to horizon
+4. Steer towards aiming point, use small rudder
+inputs
+5. Once airborne make a coordinated turn into
+the wind
+6. Maintain runway track using ailerons
+7. Correct for increasing crosswind during the
+climb
+8. Proceed as normal take off (items 13-19).
+Short field take-off
+Proceed as normal take-off, with the below
+changes
+4. Line up at the very beginning of the runway
+(use all available length)
+7. Hold the brakes, look down to the far end of
+the runway
+1. 4.
+2. Line up items before or when crossing the
+stop- bar.
+3. Line up at the very beginning of the runway
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 6 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+4. Feet on the brakes.
+5. Check compass to identify runway direction
+6. Check the windsock, ailerons in the wind
+7. Full power (100%) 2300 rpm
+8. Check power / engine (engine)instruments
+9. Release brakes, heels on the floor
+10. Direction with feet
+11. Rotate at 55 KIAS (Vr)
+12. Accelerate in ground effect once airborne
+13. Start climb when speed>59 KIAS
+14. Proceed as normal take off (items 13-19).
+Obstacle take-off
+1. Proceed as short field take off (items 1–11)
+2. Initial climb 59 KIAS
+3. Speed 80 KIAS after passing obstacle
+4. Proceed as normal take off (items 13-19).
+Soft field take-off
+1. Proceed as normal take off (items 1–6)
+2. Make a rolling take off (especially on long
+grass)
+3. Gently full power 100%
+4. Check power/engine (engine)instruments
+5. Direction with feet
+6. Maintain back pressure on the stabilator
+7. Release back pressure when nose wheel lifts
+off
+8. Proceed as short field take off (items 11-13).
+13 Circuit, approach and landing
+Normal circuit and approach
+1. Climb to circuit altitude and level off
+2. Speed 90 KIAS, power±45%
+3. Look out and turn to crosswind, 30◦ bank
+4. Climbing turn after passing 200 ft is permitted
+to stay in the circuit area (climbing turn max
+20◦ bank)
+5. Look out and turn to downwind, 30◦ bank
+6. Downwind checks (FRESBL):
+•F — Flaps:Check speed, call “SPEED
+CHECKED”→select flaps take-off
+•R — Radio:Downwind call (e.g., PH-RAB
+downwind runway 06)
+•E — Engine:Instruments in green, fuel
+quantity & balance checked
+•S — Security:Harnesses secure, loose
+items stowed
+•B — Brakes:Check pressure, heels on
+floor
+•L — Lights:Landing light ON
+7. Turn to base leg when runway is 45◦ behind
+8. Reduce power to±15%
+9. Maintain altitude until 80 KIAS, start descent
+10. Trim as required, PID
+11. Turn to final, maximum 30◦ of bank
+12. On final: flaps LDG, 70 KIAS, trimmed (adjust
+power as required to maintain glide path)
+13. Establish on stabilized glide path
+Normal landing
+1. Fly standard circuit
+2. On final: flaps landing
+3. 70 KIAS final approach speed
+4. Trim as required
+5. Aim for the aiming point
+6. Close the power lever gently
+7. Start horizontal flight just before touchdown,
+and shift vision from the aiming point to the
+end of the runway or beyond using peripheral
+vision
+8. Maintain directional control with rudder
+9. Maintain runway centreline (lateral move-
+ment) using ailerons
+10. Increase pitch attitude, maintain level flight
+(flare)
+11. Touchdown on main wheels
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 7 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+12. Lower the nose gently
+13. Elevator neutral / keep aileron in the wind
+14. Decelerate by gently increasing brake pres-
+sure or as required
+15. Vacate the runway when convenient
+16. After passing the stop bar: perform the after
+landing checks (memory items)
+Crosswind landing
+1. Fly standard circuit and landing (item 1-6)
+2. Correct for crosswind on all legs
+3. Start horizontal flight just before touch down
+4. Use rudder to de-crab and line up with the
+centreline, at the same time:
+5. Bank into the wind to stay above the centre-
+line
+6. Maintain direction with feet (point in distance)
+7. Smoothly close power lever and increase
+pitch attitude for the flare
+8. Land the aircraft in this attitude while main-
+taining
+9. the nose at the aiming point and the ailerons
+in the wind to stay over the centreline.
+10. Proceed as normal landing (items 13-16)
+Soft field landing (grass runway)
+1. Fly standard circuit (items 1-13)
+2. After touchdown and during taxi, maintain
+backpressure on the elevator to relieve the
+nose wheel pressure
+3. Decelerate gently, but don’t use excessive
+brakes
+4. Keep aileron in the wind
+5. Keep the aircraft rolling
+6. Leave the runway when convenient
+7. Perform the after landing checks while rolling
+Touch and go
+1. Aim for the centreline
+2. Set flaps take-off (visual check)
+3. Full power 100%/2300 RPM
+4. Proceed as normal take off
+Go-around
+1. Call: “Going-around!”
+2. Full power (100%)
+3. Pitch up to arrest the descent (look outside)
+4. Set flaps take-off
+5. Pitch for climb attitude (70 KIAS)
+6. Maintain coordinated flight
+7. Reset trim
+8. Proceed as normal take off (items 12-14)
+Short field landing
+1. Fly standard circuit
+2. Landing configuration set at beginning of final
+3. Establish on stabilized glide path
+4. Power / attitude 65 KIAS, trim
+5. Landing procedure as normal landing (item 7-
+14)
+6. But, close power lever gently in the tempo of
+the flare
+7. Ideally the power should just be closed as the
+aircraft touches down (not before touchdown!)
+8. Proceed as normal landing (items 12-16).
+12/13E Emergencies in the circuit
+Rejected take-off
+1. Call out: “Aborting!”
+2. Close the power immediately
+3. Maintain runway centreline using rudder
+4. Apply brakes as necessary
+5. Elevator neutral / aileron into the wind
+6. RT call: “call sign, rejected take-off”
+7. Vacate the runway as soon as practical
+Simulated engine failure after take-off
+(SEFATO)
+1. Pitch for glide attitude
+2. Select a landing area
+3. Avoid obstacles
+4. Troubleshoot (time permitting)
+5. flaps T/O when landing assured
+6. Adjust attitude for 75 KIAS (70 KIAS with
+flaps)
+7. Plan full flaps landing
+8. Crash drill
+9. Touchdown
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 8 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+10. For actual failure: Evacuate the airplane and
+call RAC. (For training: Go-around at mini-
+mum safe height).
+Glide in (from circuit altitude)
+1. Fly standard circuit (items 1-6), but
+2. No flaps on downwind, speed 90 KIAS
+3. Maintain circuit altitude on downwind and/or
+base depending on wind direction and speed
+4. Maintain speed 90 KIAS
+5. Close power lever when landing is assured
+(estimate based on wind and conditions)
+6. Glide speed 75 KIAS
+7. Select flaps when landing assured
+8. Adjust attitude to maintain 75 KIAS
+9. Final checks
+10. Plan full flaps landing, touch down at 60 KIAS
+11. Proceed as normal landing (items 7-16).
+Energy Management Note
+Judge the power closed point based on wind
+direction and speed to reach the field safely.
+S-turns and side-slipping mustonlybe used
+as a last resort to lose excess height, and not
+as a primary method to correct the glide path.
+Flapless landing
+1. Fly standard circuit
+2. Maintain 90 KIAS on downwind
+3. Speed 85 KIAS on base leg
+4. Establish on stabilized glide path
+5. Power / attitude 75 KIAS on final
+6. Nose attitude higher than for normal landing
+7. Aim for the aiming point
+8. Close power lever gently
+9. Do not flare out, maintain a slightly higher at-
+titude during touchdown.
+10. Proceed as normal landing (items 12-16).
+Wave-off
+1. Wave-off is a go-around below 50 ft AGL
+2. Don’t attempt to make turns at low altitude
+3. Due to aircraft inertia, the main wheels may
+briefly touch the runway (do not pull back ex-
+cessively to prevent this, and do not deliber-
+ately land)
+4. Proceed as go-around
+15 Advanced turning
+Steep turn
+1. Look out – scan for traffic and select an out-
+side reference point
+2. Speed 110 KIAS
+3. Roll into 45 ◦ bank, use rudder to counteract
+adverse yaw
+4. Passing 30◦ bank, increase power by±10%
+5. Look out and check:
+• Bank / slip indicator
+• Altitude / pitch
+• Maintain 110 KIAS
+6. Roll out, use rudder to counteract adverse
+yaw
+7. When passing 30 ◦ of bank, reduce power by
+±10%
+8. Adjust pitch for horizontal flight
+Spiral dive entry (with FI only)
+1. Start a steep turn with 45 degrees of bank
+2. Lower the nose gently below the horizon
+3. Apply elevator input gently while maintaining
+the steep turn
+4. Notice increase of speed and G force
+Spiral dive recovery
+1. Reduce the power
+2. Roll out gently, wings level
+3. Pitch up gently to climb attitude
+4. Full power when nose passes the horizon
+5. Climb back to desired altitude
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 9 of 10
+
+===== PAGE BREAK =====
+
+Quick Reference Card (QRC)
+16 Forced landing
+Forced landing procedure
+1. Maintain altitude till speed bleeds off to 75
+KIAS and start looking for a suitable field
+2. Pitch for glide attitude and trim for 75 KIAS
+3. Depending on altitude/position turn downwind
+and select a landing area, below 1200 ft turn
+direct base leg for the most suitable landing
+area.
+4. Perform abbreviated troubleshoot
+5. Select the most suitable landing area within
+reach and use to the 1000 ft point
+6. May Day call / transponder on 7700/ ELT Man.
+(T) (when time permitting)
+7. Proceed to the 1000 ft point
+8. Perform expanded trouble shoot if possible,
+perform the restart procedure
+9. After passing the 1000 ft point turn to base leg
+10. On final aim at 1/3 of the field to guarantee
+making the field
+11. flaps T/O when landing assured
+12. Adjust attitude for 70 KIAS
+13. Plan full flaps landing 60 KIAS
+14. When landing is assured, shift aiming point to
+the beginning of runway or field
+Crash drills
+Seat beltsfastened
+Fuel selectorclosed (T)
+Flapsset
+Electric Masteroff (T)
+(T) = TOUCH DRILL ONLY!!!
+16. Avoid obstacles
+17. Evacuate the airplane and call RAC
+(T) = TOUCH DRILL ONL Y!!!
+17 Precautionary landing
+Consider a precautionary landing when:
+• Weather deteriorates below VMC minima
+• After UDP
+• Other circumstance affecting flight safety that
+require a precautionary landing
+Aircraft should be technically in a good condi-
+tion!
+Precautionary landing procedure
+1. Perform downwind checks and select flaps
+T/O
+2. Fly down the wind
+3. PAN PAN call / transponder on 7700/ ELT man
+(T)
+4. Position on downwind of the suitable field
+5. Fly a close circuit at 500 ft AGL
+6. Be aware of high obstacles
+7. Make a descending turn towards the selected
+area and carry out an inspection run at 200 ft
+AGL Check the condition of the landing area
+8. Check the compass direction in poor visibility
+9. Aim for a landmark in good visibility
+10. Climb to 500 ft AGL, flaps up on the up-wind
+leg
+11. Turn to crosswind
+12. Check the location of the landing area
+13. Continue the turn to downwind, downwind
+checks
+14. Turn to final when the landing area is 60◦ be-
+hind the wing
+15. Carry out a short field landing
+16. Evacuate the airplane and call RAC
+Requirements for a landing field:
+• No obstacles on final (or upwind)
+• Long enough (min. 300 m)
+• Headwind (or light crosswind)
+• Flat
+• Preference for (short) grassland over plowed
+land
+Version v1.1 17-07-2026UNCONTROLLED WHEN PRINTED OR DOWNLOADED
+© Rotterdamsche Aero Club
+Page 10 of 10

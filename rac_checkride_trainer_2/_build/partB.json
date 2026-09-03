@@ -1,0 +1,661 @@
+{
+  "questions": [
+    {
+      "id": "QB-001",
+      "category": "Stall & Spin",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "According to the QRC, recovery from a FULL stall is started at which indication?",
+      "choices": [
+        "Nose and/or wing drop, or an (excessive) rate of descent with full back pressure",
+        "Stall warning, buffet, or 5 KIAS above the bottom of the white arc, whichever comes first",
+        "Stall warning, buffet, or 5 KIAS above the bottom of the green arc, whichever comes first",
+        "The first buffet, followed by a second buffet to confirm"
+      ],
+      "answer": 0,
+      "explanation": "The QRC 'Recovery of the stall is started at' table states that for a full stall recovery begins at nose and/or wing drop or (excessive) rate of descent with full back pressure. The other criteria belong to the approach to stall (landing and clean configurations).",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery-criteria"
+      ]
+    },
+    {
+      "id": "QB-002",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "numeric",
+      "prompt": "State the minimum altitudes by which a FULL stall must be recovered (dual and solo).",
+      "parts": [
+        {
+          "label": "Full stall recovery, dual",
+          "answer": 2000,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        },
+        {
+          "label": "Full stall recovery, solo",
+          "answer": 3000,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        }
+      ],
+      "explanation": "The pre-stall checklist Altitude item states: Full Stall recovered before Dual 2000 ft AGL, Solo 3000 ft AGL.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "altitude",
+        "limits"
+      ]
+    },
+    {
+      "id": "QB-003",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "numeric",
+      "prompt": "State the minimum altitudes by which an APPROACH to the stall must be recovered (dual and solo).",
+      "parts": [
+        {
+          "label": "Approach to stall recovery, dual",
+          "answer": 1500,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        },
+        {
+          "label": "Approach to stall recovery, solo",
+          "answer": 2500,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        }
+      ],
+      "explanation": "The pre-stall checklist Altitude item states: Approach to the Stall recovered before Dual 1500 ft AGL, Solo 2500 ft AGL.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "altitude",
+        "limits"
+      ]
+    },
+    {
+      "id": "QB-004",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "self_check",
+      "prompt": "Recite the complete pre-stall checklist: all four inside inspection items (with their required states) and all four outside inspection items.",
+      "model_answer": "Inside inspection: 1. Trim - Checked (trimmed for level flight); 2. Flaps - Retracted (UP); 3. Engine - Checked (instruments in green, fuel balanced); 4. Security - Checked (harnesses tight, baggage stowed). Outside inspection: 1. Altitude - Checked; 2. Position - Checked; 3. Orientation - Checked; 4. Sky - Free.",
+      "explanation": "The QRC pre-stall checklist lists these four inside items (Trim, Flaps, Engine, Security) and four outside items (Altitude, Position, Orientation, Sky), to be performed before every stall and every approach to the stall.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "checklist",
+        "memory"
+      ]
+    },
+    {
+      "id": "QB-005",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "The Position item of the pre-stall checklist says you must never stall above which of the following?",
+      "choices": [
+        "3/8 cloud or less",
+        "Open, unpopulated farmland",
+        "4/8 clouds or more",
+        "Any area outside controlled airspace"
+      ],
+      "answer": 2,
+      "explanation": "The QRC Position item lists: never stall above built up areas, harbours and industrial areas, populated areas, airports/CTRs, extended water areas, 4/8 clouds or more, and other traffic. '4/8 clouds or more' is the only option on that list.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "position",
+        "checklist"
+      ]
+    },
+    {
+      "id": "QB-006",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "For the Sky item of the pre-stall checklist, which clearing turns does the QRC prescribe to check the airspace ahead and below for other traffic?",
+      "choices": [
+        "Two 180-degree turns, one in each direction",
+        "45-degree right and left clearing turns",
+        "A single 360-degree turn to the left",
+        "90-degree right and left clearing turns, or a left-hand 180-degree turn"
+      ],
+      "answer": 3,
+      "explanation": "The QRC Sky item states: make 90-degree right and left clearing turns or a left-hand 180-degree turn to check the airspace ahead and below for other traffic.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "clearing-turns",
+        "checklist"
+      ]
+    },
+    {
+      "id": "QB-007",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "sequence",
+      "prompt": "Put the full stall recovery WITH power (clean) in the correct order.",
+      "steps": [
+        "Pitch down to reduce the angle of attack, simultaneously call \"RECOVER\"",
+        "Check for increasing speed (about 70 KIAS)",
+        "Pitch up gently while moving the power lever gently forward to reach full power when the nose is passing through the horizon",
+        "Maintain coordinated flight using rudder (ball centered)",
+        "Pitch for climb attitude (80 KIAS)",
+        "Climb back to original altitude"
+      ],
+      "explanation": "This is the QRC 'Full stall recovery with power (clean)' sequence: reduce AoA and call RECOVER, confirm speed increasing (about 70 KIAS), full power as the nose passes the horizon, stay coordinated, pitch for 80 KIAS climb and regain the original altitude.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery",
+        "power"
+      ]
+    },
+    {
+      "id": "QB-008",
+      "category": "Stall & Spin",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "Recovery from the approach to stall in the LANDING configuration is started at:",
+      "choices": [
+        "Full back pressure with an excessive rate of descent",
+        "The nose or wing dropping through the horizon",
+        "5 KIAS below the bottom of the white arc",
+        "Stall warning, buffet, or 5 KIAS above the bottom of the white arc, whichever comes first"
+      ],
+      "answer": 3,
+      "explanation": "The QRC states for approach to stall in the landing configuration: recover at the stall warning, buffet or 5 KIAS above the bottom of the white arc, whichever comes first. Nose/wing drop with full back pressure is the full-stall criterion.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery-criteria",
+        "landing-config"
+      ]
+    },
+    {
+      "id": "QB-009",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "numeric",
+      "prompt": "In the approach to stall in the landing configuration, below which speeds are the flap selections made (after calling \"SPEED CHECKED\")?",
+      "parts": [
+        {
+          "label": "Flaps take-off selected below",
+          "answer": 108,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Flaps landing selected below",
+          "answer": 91,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "The QRC approach-to-stall (landing configuration) procedure: check speed below 108 KIAS, call \"SPEED CHECKED\" and select flaps take-off; check speed below 91 KIAS, call \"SPEED CHECKED\" and select flaps landing.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "flaps",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QB-010",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "During the recovery from an approach to stall in the landing configuration, when are the flaps retracted fully up?",
+      "choices": [
+        "Immediately with the application of full power",
+        "When the speed is above 70 KIAS, after selecting flaps take-off",
+        "When the speed is above 91 KIAS",
+        "Only after reaching the original altitude"
+      ],
+      "answer": 1,
+      "explanation": "The QRC recovery sequence: full power, pitch for climb attitude, select flaps take-off, then at speed >70 KIAS select flaps up, then climb back to the previous altitude.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QB-011",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "Which bank angles does the QRC prescribe for the approach-to-stall manoeuvres in turns?",
+      "choices": [
+        "Descending turn in approach configuration: 20 degrees; climbing turn with flaps retracted: 15 degrees",
+        "Descending turn in approach configuration: 30 degrees; climbing turn with flaps retracted: 20 degrees",
+        "Descending turn in approach configuration: 15 degrees; climbing turn with flaps retracted: 20 degrees",
+        "Descending turn in approach configuration: 45 degrees; climbing turn with flaps retracted: 30 degrees"
+      ],
+      "answer": 0,
+      "explanation": "The QRC states: start the descending turn in approach configuration with 20 degrees of bank, and start the climbing turn with flaps retracted with 15 degrees of bank. 30 degrees is the normal/descending cruise-turn bank and 45 degrees is the steep-turn bank used elsewhere in the QRC.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "bank",
+        "turning"
+      ]
+    },
+    {
+      "id": "QB-012",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "In the full stall recovery WITHOUT power (clean), after the pitch-down and \"RECOVER\" call with speed increasing through about 70 KIAS, you adjust pitch for:",
+      "choices": [
+        "Climb attitude at 80 KIAS",
+        "Glide attitude at 75 KIAS, and trim",
+        "Cruise descent at 110 KIAS",
+        "Approach descent at 90 KIAS"
+      ],
+      "answer": 1,
+      "explanation": "The QRC full stall recovery without power: pitch down, call \"RECOVER\", check increasing speed (about 70 KIAS), maintain coordination, then adjust pitch for glide attitude (75 KIAS) and trim; when established in the glide, end the exercise and climb back to the original altitude.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery",
+        "glide"
+      ]
+    },
+    {
+      "id": "QB-013",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "What are the FIRST actions of the wing dip recovery in the QRC?",
+      "choices": [
+        "Apply full opposite rudder, then pitch down",
+        "Apply full power and roll wings level with ailerons",
+        "Power idle, ailerons neutral",
+        "Pull up gently while applying full power"
+      ],
+      "answer": 2,
+      "explanation": "Wing dip recovery step 1 in the QRC is: power idle, ailerons neutral. Full opposite rudder comes only after the \"Recover\" call with pitch down below the glide attitude to break the stall.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-014",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "sequence",
+      "prompt": "Put the wing dip recovery in the correct order.",
+      "steps": [
+        "Power idle, ailerons neutral",
+        "Call \"Recover\" and simultaneously pitch down below the glide attitude to break the stall",
+        "Apply full opposite rudder with the feet",
+        "Neutralize the rudder with the feet when rotation stops",
+        "Check for increasing speed (about 80 KIAS)",
+        "Pull gently out of the dive, moving the power lever gently forward to reach full power when the nose passes through the horizon",
+        "Direction with the feet, no bank; adjust pitch for climb attitude (80 KIAS) and climb back to the previous altitude"
+      ],
+      "explanation": "This follows the QRC wing dip recovery: idle power and neutral ailerons first, break the stall with pitch down below glide attitude while calling \"Recover\", stop rotation with full opposite rudder, neutralize rudder when rotation stops, confirm about 80 KIAS, then recover from the dive reaching full power at the horizon and climb at 80 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-015",
+      "category": "Numbers & Limits",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "During the wing dip recovery, at about what speed do you check for increasing speed before pulling out of the dive?",
+      "choices": [
+        "About 70 KIAS",
+        "About 75 KIAS",
+        "About 90 KIAS",
+        "About 80 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "The QRC wing dip recovery step 5 is: check for increasing speed (about 80 KIAS). 70 KIAS is the speed check in the full stall recovery; 75 KIAS is the glide speed.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QB-016",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "sequence",
+      "prompt": "Put the QRC emergency (spin) recovery procedure - 'just in case you don't know the procedure anymore' - in the correct order.",
+      "steps": [
+        "Power idle",
+        "Ailerons and elevator neutral",
+        "Apply full opposite rudder against the rotation",
+        "Neutralize the rudder",
+        "Pull gently out of the dive, wings level",
+        "Full power when the nose is passing the horizon",
+        "Climb back to the desired altitude"
+      ],
+      "explanation": "This is the verbatim QRC emergency recovery sequence: power idle, ailerons and elevator neutral, full opposite rudder against rotation, neutralize rudder, pull gently out of the dive with wings level, full power at the horizon, climb back to the desired altitude.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "emergency",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-017",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "The QRC general emergency recovery procedure is stated to be applicable for:",
+      "choices": [
+        "All aircraft, regardless of certification or loading",
+        "All JAR23 & FAR23 approved aircraft, provided mass & balance falls in the envelope and the aircraft is trimmed for cruise flight",
+        "Only the Diamond DA40-TDI, in any loading condition",
+        "All JAR23 & FAR23 approved aircraft, provided the aircraft is trimmed for approach"
+      ],
+      "answer": 1,
+      "explanation": "The QRC states the general procedure is applicable for all JAR23 & FAR23 approved aircraft, provided mass & balance falls in the envelope and the aircraft is trimmed for cruise flight, and directs the pilot to consult the AFM/Diamond for the DA40 specific procedure.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "emergency",
+        "limitations"
+      ]
+    },
+    {
+      "id": "QB-018",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "In the wing dip recovery, when do you neutralize the rudder?",
+      "choices": [
+        "When the rotation stops",
+        "As soon as full opposite rudder is applied",
+        "When the speed reaches 80 KIAS",
+        "When the nose passes through the horizon"
+      ],
+      "answer": 0,
+      "explanation": "The QRC wing dip recovery: apply full opposite rudder with the feet, then neutralize the rudder with the feet when rotation stops.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "rudder"
+      ]
+    },
+    {
+      "id": "QB-019",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "With the \"Recover\" call in the wing dip recovery, you simultaneously pitch down:",
+      "choices": [
+        "To the horizon, then hold level",
+        "Below the climb attitude",
+        "Below the glide attitude, to break the stall",
+        "To the normal cruise attitude"
+      ],
+      "answer": 2,
+      "explanation": "The QRC wing dip recovery step 2: call \"Recover\" and simultaneously pitch down below the glide attitude to break the stall.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "stall"
+      ]
+    },
+    {
+      "id": "QB-020",
+      "category": "Procedures",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "After the rotation has stopped in the wing dip recovery, how is direction controlled while pulling out of the dive?",
+      "choices": [
+        "With ailerons, rolling into a 20-degree bank",
+        "With the feet (rudder), no bank",
+        "With ailerons only, keeping the ball centered",
+        "With differential braking"
+      ],
+      "answer": 1,
+      "explanation": "The QRC wing dip recovery states: direction with feet, no bank, then adjust pitch for climb attitude (80 KIAS) and climb back to the previous altitude.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-021",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "What is the correct first call and first action for a rejected take-off?",
+      "choices": [
+        "Call \"Going-around!\" and apply full power",
+        "Make the RT call first, then close the power",
+        "Call \"RECOVER\" and apply full brakes",
+        "Call \"Aborting!\" and close the power immediately"
+      ],
+      "answer": 3,
+      "explanation": "The QRC rejected take-off: step 1 call out \"Aborting!\", step 2 close the power immediately, then maintain the centreline with rudder, brake as necessary, elevator neutral/aileron into the wind, RT call, and vacate the runway as soon as practical.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "rejected-takeoff",
+        "calls"
+      ]
+    },
+    {
+      "id": "QB-022",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "sequence",
+      "prompt": "Put the rejected take-off procedure in the correct order.",
+      "steps": [
+        "Call out: \"Aborting!\"",
+        "Close the power immediately",
+        "Maintain runway centreline using the rudder",
+        "Apply brakes as necessary",
+        "Elevator neutral / aileron into the wind",
+        "RT call: \"call sign, rejected take-off\"",
+        "Vacate the runway as soon as practical"
+      ],
+      "explanation": "This is the verbatim QRC rejected take-off sequence, from the \"Aborting!\" call and immediate power closure through braking, the rejected take-off RT call, and vacating the runway.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "rejected-takeoff",
+        "sequence"
+      ]
+    },
+    {
+      "id": "QB-023",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "sequence",
+      "prompt": "Put the simulated engine failure after take-off (SEFATO) procedure in the correct order.",
+      "steps": [
+        "Pitch for the glide attitude",
+        "Select a landing area and avoid obstacles",
+        "Troubleshoot (time permitting)",
+        "Select flaps take-off when the landing is assured",
+        "Adjust attitude for 75 KIAS (70 KIAS with flaps)",
+        "Plan a full flaps landing",
+        "Crash drill",
+        "Touchdown"
+      ],
+      "explanation": "This is the QRC SEFATO sequence: glide attitude, landing area selection, troubleshooting time permitting, flaps T/O when landing is assured, 75 KIAS (70 KIAS with flaps), full flaps landing planned, crash drill, touchdown. For an actual failure: evacuate and call RAC; for training: go-around at minimum safe height.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "sefato",
+        "engine-failure",
+        "sequence"
+      ]
+    },
+    {
+      "id": "QB-024",
+      "category": "Numbers & Limits",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "In the SEFATO procedure, which approach speeds does the QRC prescribe?",
+      "choices": [
+        "75 KIAS, or 70 KIAS with flaps",
+        "80 KIAS, or 70 KIAS with flaps",
+        "75 KIAS, or 60 KIAS with flaps",
+        "90 KIAS, or 75 KIAS with flaps"
+      ],
+      "answer": 0,
+      "explanation": "The QRC SEFATO step: adjust attitude for 75 KIAS (70 KIAS with flaps).",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "sefato",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QB-025",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "For the glide-in from circuit altitude, how does the QRC modify the downwind leg?",
+      "choices": [
+        "Flaps take-off selected, speed 90 KIAS",
+        "No flaps on downwind, speed 75 KIAS",
+        "Flaps landing selected, speed 75 KIAS",
+        "No flaps on downwind, speed 90 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "The QRC glide-in procedure: fly the standard circuit but with no flaps on downwind at 90 KIAS, maintain circuit altitude on downwind/base depending on wind, close the power lever when the landing is assured, then glide at 75 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "glide-in",
+        "speeds",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QB-026",
+      "category": "Numbers & Limits",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "In the glide-in from circuit altitude, the QRC has you plan a full flaps landing with touchdown at:",
+      "choices": [
+        "70 KIAS",
+        "75 KIAS",
+        "60 KIAS",
+        "65 KIAS"
+      ],
+      "answer": 2,
+      "explanation": "The QRC glide-in procedure: glide speed 75 KIAS, select flaps when the landing is assured, plan a full flaps landing and touch down at 60 KIAS. 65 KIAS is the short field landing approach speed and 70 KIAS the normal final speed.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "glide-in",
+        "speeds",
+        "landing"
+      ]
+    },
+    {
+      "id": "QB-027",
+      "category": "Numbers & Limits",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "numeric",
+      "prompt": "State the QRC flapless landing speeds on each circuit leg.",
+      "parts": [
+        {
+          "label": "Downwind",
+          "answer": 90,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Base leg",
+          "answer": 85,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Final",
+          "answer": 75,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "The QRC flapless landing: maintain 90 KIAS on downwind, 85 KIAS on base leg, power/attitude 75 KIAS on final, with a nose attitude higher than for a normal landing and no flare-out at touchdown.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "flapless",
+        "speeds",
+        "landing"
+      ]
+    },
+    {
+      "id": "QB-028",
+      "category": "Procedures",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "Which technique does the QRC prescribe for the touchdown phase of a flapless landing?",
+      "choices": [
+        "Do not flare out; maintain a slightly higher nose attitude during touchdown",
+        "Normal flare to a full-stall touchdown on the main wheels",
+        "Hold the aircraft off as long as possible at 60 KIAS",
+        "Close the power only after touchdown, in the tempo of the flare"
+      ],
+      "answer": 0,
+      "explanation": "The QRC flapless landing states: nose attitude higher than for a normal landing, and do not flare out - maintain a slightly higher attitude during touchdown. Closing power in the tempo of the flare belongs to the short field landing.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "flapless",
+        "landing",
+        "technique"
+      ]
+    },
+    {
+      "id": "QB-029",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "How does the QRC define a wave-off, and what does it say about the wheels?",
+      "choices": [
+        "A go-around below 100 ft AGL; the wheels must never touch the runway",
+        "A go-around below 50 ft AGL; due to aircraft inertia the main wheels may briefly touch the runway - do not pull back excessively to prevent this, and do not deliberately land",
+        "A go-around below 50 ft AGL; if the wheels touch, you are committed to land",
+        "A rejected landing at any height; a brief touchdown always ends the manoeuvre"
+      ],
+      "answer": 1,
+      "explanation": "The QRC wave-off: it is a go-around below 50 ft AGL; don't attempt turns at low altitude; due to inertia the main wheels may briefly touch the runway - do not pull back excessively to prevent this and do not deliberately land; then proceed as a go-around.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "wave-off",
+        "go-around"
+      ]
+    },
+    {
+      "id": "QB-030",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "self_check",
+      "prompt": "Recite the crash drill items exactly as used in the SEFATO / forced landing context, including which items are touch-drill only.",
+      "model_answer": "Crash drill: Seat belts - fastened; Fuel selector - closed (T); Flaps - set; Electric Master - off (T). (T) = TOUCH DRILL ONLY.",
+      "explanation": "The QRC crash drills list: seat belts fastened, fuel selector closed (T), flaps set, electric master off (T), where (T) means touch drill only. The crash drill is step 8 of the SEFATO procedure in the circuit emergencies exercise.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "crash-drill",
+        "memory",
+        "sefato"
+      ]
+    }
+  ]
+}

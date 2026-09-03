@@ -1,0 +1,2129 @@
+{
+  "metadata": {
+    "title": "RAC DA40 Checkride Trainer",
+    "source_documents": [
+      "RAC QRC v1.1"
+    ],
+    "disclaimer": "Training aid only; AFM/POH and current controlled RAC SOP take precedence."
+  },
+  "questions": [
+    {
+      "id": "QA-001",
+      "category": "Numbers & Limits",
+      "exercise": "6 Straight and Level",
+      "type": "mcq",
+      "prompt": "According to the QRC, what is the speed for straight and level flight in Exercise 6?",
+      "choices": [
+        "80 KIAS",
+        "90 KIAS",
+        "110 KIAS",
+        "75 KIAS"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 6 step 3 states: 'Speed 110 KIAS (±65% power setting)'.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-002",
+      "category": "Numbers & Limits",
+      "exercise": "6 Straight and Level",
+      "type": "mcq",
+      "prompt": "What power setting does the QRC specify for straight and level flight at 110 KIAS?",
+      "choices": [
+        "±45% power",
+        "±20% power",
+        "100% (full power)",
+        "±65% power"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 6 step 3: 'Speed 110 KIAS (±65% power setting)'.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "power"
+      ]
+    },
+    {
+      "id": "QA-003",
+      "category": "Numbers & Limits",
+      "exercise": "6 Straight and Level",
+      "type": "numeric",
+      "prompt": "Enter the QRC speed and power setting for straight and level flight (Exercise 6).",
+      "parts": [
+        {
+          "label": "Speed",
+          "answer": 110,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Power setting",
+          "answer": 65,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 6 step 3: 'Speed 110 KIAS (±65% power setting)'.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-004",
+      "category": "Procedures",
+      "exercise": "6 Straight and Level",
+      "type": "sequence",
+      "prompt": "Put the initial steps for establishing straight and level flight (Exercise 6) in the correct order.",
+      "steps": [
+        "Look out – select an outside reference point",
+        "Pitch for horizontal flight",
+        "Speed 110 KIAS (±65% power setting)",
+        "Trim as required",
+        "Maintain wings level using ailerons",
+        "Maintain coordinated flight using rudder (ball centered)"
+      ],
+      "explanation": "These are steps 1–6 of 'Straight and level flight' in Exercise 6, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "procedure",
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-005",
+      "category": "Procedures",
+      "exercise": "6 Straight and Level",
+      "type": "mcq",
+      "prompt": "Which item is included in the 'Look out and check' list for straight and level flight in the QRC?",
+      "choices": [
+        "Landing light ON",
+        "Transponder ALT",
+        "Fuel quantity and fuel balance",
+        "Pitot heat ON"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 6 step 7 lists: fuel quantity and fuel balance, radio, engine instruments, direction (outside reference point), altitude. The other options are take-off line-up items from Exercise 12, not the Exercise 6 check list.",
+      "source": "RAC QRC v1.1, Exercise 6",
+      "tags": [
+        "procedure",
+        "checks"
+      ]
+    },
+    {
+      "id": "QA-006",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "numeric",
+      "prompt": "Enter the QRC climb speed and the power setting used when approaching that speed during the transition to climb.",
+      "parts": [
+        {
+          "label": "Climb speed",
+          "answer": 80,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Power setting",
+          "answer": 100,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 7 'Transition to climb': step 3 'Pitch for climb attitude (80 KIAS)', step 4 'Approaching 80 KIAS, set full power (100%)'.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-007",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "mcq",
+      "prompt": "During the transition to climb, when does the QRC say to set full power (100%)?",
+      "choices": [
+        "Before pitching for the climb attitude",
+        "Approaching 80 KIAS",
+        "Approaching 110 KIAS",
+        "±20 ft before the target altitude"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 7 'Transition to climb' step 4: 'Approaching 80 KIAS, set full power (100%)'.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-008",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "mcq",
+      "prompt": "How far before the target altitude does the QRC say to begin the level-off from a climb?",
+      "choices": [
+        "±50 ft before",
+        "±100 ft before",
+        "±20 ft before",
+        "±200 ft before"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 7 'Level-off from climb' step 1: '±20 ft before target altitude, set pitch for horizontal flight'. (±50 ft applies to level-off from descent for approach; ±100 ft to level-off from glide descent.)",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "altitude"
+      ]
+    },
+    {
+      "id": "QA-009",
+      "category": "Procedures",
+      "exercise": "7 Climbing",
+      "type": "sequence",
+      "prompt": "Put the steps of the transition to climb (Exercise 7) in the correct order.",
+      "steps": [
+        "Look out – scan for traffic and select an outside reference point",
+        "Check engine instruments",
+        "Pitch for climb attitude (80 KIAS)",
+        "Approaching 80 KIAS, set full power (100%)",
+        "Maintain coordinated flight using rudder (ball centered)",
+        "Trim as required"
+      ],
+      "explanation": "These are steps 1–6 of 'Transition to climb (80 KIAS)' in Exercise 7, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "procedure",
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-010",
+      "category": "Numbers & Limits",
+      "exercise": "7 Climbing",
+      "type": "mcq",
+      "prompt": "During the level-off from a climb, what power is set when approaching 110 KIAS?",
+      "choices": [
+        "±65% power",
+        "±45% power",
+        "±20% power",
+        "Full power (100%)"
+      ],
+      "answer": 0,
+      "explanation": "Exercise 7 'Level-off from climb (110 KIAS)' step 4: 'Approaching 110 KIAS, ±65% power'.",
+      "source": "RAC QRC v1.1, Exercise 7",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-011",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "numeric",
+      "prompt": "Enter the QRC values for the transition to cruise descent: power setting, standard descent rate, and speed.",
+      "parts": [
+        {
+          "label": "Power setting",
+          "answer": 20,
+          "tolerance": 0,
+          "unit": "%"
+        },
+        {
+          "label": "Standard descent rate",
+          "answer": 500,
+          "tolerance": 0,
+          "unit": "ft/min"
+        },
+        {
+          "label": "Speed",
+          "answer": 110,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "Exercise 8 'Transition to cruise descent': step 1 'Reduce power to ±20% (standard descent 500 ft/min)', step 2 'Pitch to maintain 110 KIAS'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "power",
+        "rate",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-012",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "For the level-off from a cruise descent, the QRC says to increase power to ±65% how far before the target altitude?",
+      "choices": [
+        "±20 ft before",
+        "±50 ft before",
+        "±100 ft before",
+        "±500 ft before"
+      ],
+      "answer": 0,
+      "explanation": "Exercise 8 'Level-off from cruise descent' step 1: '±20 ft before the target altitude, increase power to ±65%'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "altitude",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-013",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "What is the target speed for the descent for approach, and to what power is the lever reduced during the transition?",
+      "choices": [
+        "75 KIAS, power idle",
+        "90 KIAS, power smoothly reduced to ±20%",
+        "110 KIAS, power reduced to ±65%",
+        "80 KIAS, full power (100%)"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 8 'Transition to descent for approach (90 KIAS)': step 2 'Power – smoothly reduce power lever to ±20%', step 3 decelerate to 90 KIAS and set pitch attitude to capture the descent.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "speed",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-014",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "numeric",
+      "prompt": "For the level-off from a descent for approach, enter how far before the target altitude the level-off begins and the level flight power setting.",
+      "parts": [
+        {
+          "label": "Begin level-off before target altitude",
+          "answer": 50,
+          "tolerance": 0,
+          "unit": "ft"
+        },
+        {
+          "label": "Level flight power setting",
+          "answer": 45,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 8 'Level-off from descent for approach (90 KIAS)' step 1: '±50 ft before target altitude, smoothly increase power to level flight setting (±45%)'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "altitude",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-015",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "What power and speed does the QRC specify for the glide descent?",
+      "choices": [
+        "Power ±20%, 110 KIAS",
+        "Power ±25%, 110 KIAS",
+        "Power ±45%, 90 KIAS",
+        "Power idle, 75 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 8 'Transition to glide descent (75 KIAS)': step 3 'Power idle', step 4 'Set pitch for gliding flight (75 KIAS)'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-016",
+      "category": "Numbers & Limits",
+      "exercise": "8 Descending",
+      "type": "mcq",
+      "prompt": "How far before the target altitude does the QRC say to begin the level-off from a glide descent?",
+      "choices": [
+        "±20 ft before",
+        "±50 ft before",
+        "±100 ft before",
+        "±300 ft before"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 8 'Level-off from glide descent' step 1: '±100 ft before the target altitude, increase power to increase speed to 110 KIAS (±65% power)'.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "altitude"
+      ]
+    },
+    {
+      "id": "QA-017",
+      "category": "Procedures",
+      "exercise": "8 Descending",
+      "type": "sequence",
+      "prompt": "Put the steps of the transition to glide descent (Exercise 8) in the correct order.",
+      "steps": [
+        "Look out – select an outside reference point",
+        "Check engine instruments",
+        "Power idle",
+        "Set pitch for gliding flight (75 KIAS)",
+        "Trim as required",
+        "Maintain wings level using ailerons",
+        "Maintain coordinated flight using rudder (ball centered)"
+      ],
+      "explanation": "These are steps 1–7 of 'Transition to glide descent (75 KIAS)' in Exercise 8, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 8",
+      "tags": [
+        "procedure",
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-018",
+      "category": "Numbers & Limits",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "What bank angle does the QRC specify for a normal coordinated turn?",
+      "choices": [
+        "20°",
+        "30°",
+        "45°",
+        "15°"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 9 'Normal coordinated turn (30° bank)' step 2: 'Roll into 30° bank, use rudder to counteract adverse yaw'. (45° is the steep turn in Exercise 15; 20° is the climbing turn maximum.)",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "bank"
+      ]
+    },
+    {
+      "id": "QA-019",
+      "category": "Numbers & Limits",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "What is the maximum bank angle permitted in a climbing turn according to the QRC?",
+      "choices": [
+        "30°",
+        "45°",
+        "20°",
+        "60°"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 9 'Climbing turn' step 3: 'Max. bank 20°, use rudder to counteract adverse yaw'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "bank"
+      ]
+    },
+    {
+      "id": "QA-020",
+      "category": "Numbers & Limits",
+      "exercise": "9 Turning",
+      "type": "numeric",
+      "prompt": "Enter the bank angle and power setting the QRC specifies for a descending turn (cruise descent established per Chapter 8).",
+      "parts": [
+        {
+          "label": "Bank angle",
+          "answer": 30,
+          "tolerance": 0,
+          "unit": "degrees"
+        },
+        {
+          "label": "Power setting",
+          "answer": 25,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 9 'Descending turn': step 2 'Establish cruise descent (as explained in Chapter 8, power ±25%)', step 3 'Bank 30°'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "bank",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-021",
+      "category": "Procedures",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "According to the QRC, why is rudder used when rolling into and out of a turn?",
+      "choices": [
+        "To keep the nose on the horizon",
+        "To maintain the bank angle",
+        "To control the rate of descent",
+        "To counteract adverse yaw"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 9 states for the normal coordinated turn, climbing turn and descending turn: 'use rudder to counteract adverse yaw'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "procedure",
+        "rudder"
+      ]
+    },
+    {
+      "id": "QA-022",
+      "category": "Procedures",
+      "exercise": "9 Turning",
+      "type": "mcq",
+      "prompt": "Per the QRC, how is a descending turn established before banking into the turn?",
+      "choices": [
+        "Establish a normal climb (as explained in Exercise 7)",
+        "Establish a cruise descent (as explained in Chapter 8, power ±25%)",
+        "Set power idle and pitch for gliding flight (75 KIAS)",
+        "Set power ±45% and decelerate to 90 KIAS"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 9 'Descending turn' step 2: 'Establish cruise descent (as explained in Chapter 8, power ±25%)'.",
+      "source": "RAC QRC v1.1, Exercise 9",
+      "tags": [
+        "procedure",
+        "power"
+      ]
+    },
+    {
+      "id": "QA-023",
+      "category": "Procedures",
+      "exercise": "10A Slow Flight",
+      "type": "sequence",
+      "prompt": "Put the steps to decelerate from 110 to 60 KIAS (flaps T/O) in the correct order.",
+      "steps": [
+        "Look out – scan for traffic and select an outside reference point",
+        "Set power ±20%",
+        "Flaps T/O below 108 KIAS, adjust pitch",
+        "Maintain altitude / direction",
+        "Speed approaches 60 KIAS, set power ±35%",
+        "Trim"
+      ],
+      "explanation": "These are steps 1–6 of 'Decelerate from 110 to 60 KIAS (flaps T/O)' in Exercise 10A, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "procedure",
+        "speed",
+        "power",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QA-024",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "mcq",
+      "prompt": "Below what speed does the QRC say to select flaps T/O when decelerating from 110 to 60 KIAS?",
+      "choices": [
+        "Below 91 KIAS",
+        "Below 110 KIAS",
+        "Below 108 KIAS",
+        "Below 70 KIAS"
+      ],
+      "answer": 2,
+      "explanation": "Exercise 10A 'Decelerate from 110 to 60 KIAS (flaps T/O)' step 3: 'flaps T/O below 108 KIAS, adjust pitch'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "speed",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QA-025",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "numeric",
+      "prompt": "When decelerating from 110 to 60 KIAS (flaps T/O), enter the power set at the start and the power set as the speed approaches 60 KIAS.",
+      "parts": [
+        {
+          "label": "Initial power setting",
+          "answer": 20,
+          "tolerance": 0,
+          "unit": "%"
+        },
+        {
+          "label": "Power at 60 KIAS",
+          "answer": 35,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 10A step 2 'Set power ±20%' and step 5 'Speed approaches 60 KIAS, set power ±35%'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-026",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "mcq",
+      "prompt": "When accelerating from 60 to 110 KIAS (flaps T/O), at what speed does the QRC say to select flaps up?",
+      "choices": [
+        "±60 KIAS",
+        "±65 KIAS",
+        "±80 KIAS",
+        "±70 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "Exercise 10A 'Accelerate from 60 to 110 KIAS (flaps T/O)' step 2: 'Flaps up (speed ±70 KIAS), adjust pitch'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "speed",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QA-027",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "mcq",
+      "prompt": "When decelerating from 110 to 65 KIAS with flaps up, what power is set approaching 65 KIAS?",
+      "choices": [
+        "±20%",
+        "±35%",
+        "±45%",
+        "±65%"
+      ],
+      "answer": 1,
+      "explanation": "Exercise 10A 'Decelerate from 110 to 65 KIAS (flaps up)' step 4: 'Approaching 65 KIAS, Power ±35%'. (±20% is the initial setting in step 2.)",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QA-028",
+      "category": "Numbers & Limits",
+      "exercise": "10A Slow Flight",
+      "type": "numeric",
+      "prompt": "When accelerating from 60 to 110 KIAS (flaps T/O), enter the power set at the start of the acceleration and the power set approaching 110 KIAS.",
+      "parts": [
+        {
+          "label": "Power at start of acceleration",
+          "answer": 100,
+          "tolerance": 0,
+          "unit": "%"
+        },
+        {
+          "label": "Power approaching 110 KIAS",
+          "answer": 65,
+          "tolerance": 0,
+          "unit": "%"
+        }
+      ],
+      "explanation": "Exercise 10A 'Accelerate from 60 to 110 KIAS (flaps T/O)': step 1 'Full power (100%)', step 4 'Approaching 110 KIAS, reduce power to ±65%'.",
+      "source": "RAC QRC v1.1, Exercise 10A",
+      "tags": [
+        "power",
+        "speed"
+      ]
+    },
+    {
+      "id": "QB-001",
+      "category": "Stall & Spin",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "According to the QRC, recovery from a FULL stall is started at which indication?",
+      "choices": [
+        "Nose and/or wing drop, or an (excessive) rate of descent with full back pressure",
+        "Stall warning, buffet, or 5 KIAS above the bottom of the white arc, whichever comes first",
+        "Stall warning, buffet, or 5 KIAS above the bottom of the green arc, whichever comes first",
+        "The first buffet, followed by a second buffet to confirm"
+      ],
+      "answer": 0,
+      "explanation": "The QRC 'Recovery of the stall is started at' table states that for a full stall recovery begins at nose and/or wing drop or (excessive) rate of descent with full back pressure. The other criteria belong to the approach to stall (landing and clean configurations).",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery-criteria"
+      ]
+    },
+    {
+      "id": "QB-002",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "numeric",
+      "prompt": "State the minimum altitudes by which a FULL stall must be recovered (dual and solo).",
+      "parts": [
+        {
+          "label": "Full stall recovery, dual",
+          "answer": 2000,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        },
+        {
+          "label": "Full stall recovery, solo",
+          "answer": 3000,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        }
+      ],
+      "explanation": "The pre-stall checklist Altitude item states: Full Stall recovered before Dual 2000 ft AGL, Solo 3000 ft AGL.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "altitude",
+        "limits"
+      ]
+    },
+    {
+      "id": "QB-003",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "numeric",
+      "prompt": "State the minimum altitudes by which an APPROACH to the stall must be recovered (dual and solo).",
+      "parts": [
+        {
+          "label": "Approach to stall recovery, dual",
+          "answer": 1500,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        },
+        {
+          "label": "Approach to stall recovery, solo",
+          "answer": 2500,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        }
+      ],
+      "explanation": "The pre-stall checklist Altitude item states: Approach to the Stall recovered before Dual 1500 ft AGL, Solo 2500 ft AGL.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "altitude",
+        "limits"
+      ]
+    },
+    {
+      "id": "QB-004",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "self_check",
+      "prompt": "Recite the complete pre-stall checklist: all four inside inspection items (with their required states) and all four outside inspection items.",
+      "model_answer": "Inside inspection: 1. Trim - Checked (trimmed for level flight); 2. Flaps - Retracted (UP); 3. Engine - Checked (instruments in green, fuel balanced); 4. Security - Checked (harnesses tight, baggage stowed). Outside inspection: 1. Altitude - Checked; 2. Position - Checked; 3. Orientation - Checked; 4. Sky - Free.",
+      "explanation": "The QRC pre-stall checklist lists these four inside items (Trim, Flaps, Engine, Security) and four outside items (Altitude, Position, Orientation, Sky), to be performed before every stall and every approach to the stall.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "checklist",
+        "memory"
+      ]
+    },
+    {
+      "id": "QB-005",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "The Position item of the pre-stall checklist says you must never stall above which of the following?",
+      "choices": [
+        "3/8 cloud or less",
+        "Open, unpopulated farmland",
+        "4/8 clouds or more",
+        "Any area outside controlled airspace"
+      ],
+      "answer": 2,
+      "explanation": "The QRC Position item lists: never stall above built up areas, harbours and industrial areas, populated areas, airports/CTRs, extended water areas, 4/8 clouds or more, and other traffic. '4/8 clouds or more' is the only option on that list.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "position",
+        "checklist"
+      ]
+    },
+    {
+      "id": "QB-006",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "For the Sky item of the pre-stall checklist, which clearing turns does the QRC prescribe to check the airspace ahead and below for other traffic?",
+      "choices": [
+        "Two 180-degree turns, one in each direction",
+        "45-degree right and left clearing turns",
+        "A single 360-degree turn to the left",
+        "90-degree right and left clearing turns, or a left-hand 180-degree turn"
+      ],
+      "answer": 3,
+      "explanation": "The QRC Sky item states: make 90-degree right and left clearing turns or a left-hand 180-degree turn to check the airspace ahead and below for other traffic.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "clearing-turns",
+        "checklist"
+      ]
+    },
+    {
+      "id": "QB-007",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "sequence",
+      "prompt": "Put the full stall recovery WITH power (clean) in the correct order.",
+      "steps": [
+        "Pitch down to reduce the angle of attack, simultaneously call \"RECOVER\"",
+        "Check for increasing speed (about 70 KIAS)",
+        "Pitch up gently while moving the power lever gently forward to reach full power when the nose is passing through the horizon",
+        "Maintain coordinated flight using rudder (ball centered)",
+        "Pitch for climb attitude (80 KIAS)",
+        "Climb back to original altitude"
+      ],
+      "explanation": "This is the QRC 'Full stall recovery with power (clean)' sequence: reduce AoA and call RECOVER, confirm speed increasing (about 70 KIAS), full power as the nose passes the horizon, stay coordinated, pitch for 80 KIAS climb and regain the original altitude.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery",
+        "power"
+      ]
+    },
+    {
+      "id": "QB-008",
+      "category": "Stall & Spin",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "Recovery from the approach to stall in the LANDING configuration is started at:",
+      "choices": [
+        "Full back pressure with an excessive rate of descent",
+        "The nose or wing dropping through the horizon",
+        "5 KIAS below the bottom of the white arc",
+        "Stall warning, buffet, or 5 KIAS above the bottom of the white arc, whichever comes first"
+      ],
+      "answer": 3,
+      "explanation": "The QRC states for approach to stall in the landing configuration: recover at the stall warning, buffet or 5 KIAS above the bottom of the white arc, whichever comes first. Nose/wing drop with full back pressure is the full-stall criterion.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery-criteria",
+        "landing-config"
+      ]
+    },
+    {
+      "id": "QB-009",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "numeric",
+      "prompt": "In the approach to stall in the landing configuration, below which speeds are the flap selections made (after calling \"SPEED CHECKED\")?",
+      "parts": [
+        {
+          "label": "Flaps take-off selected below",
+          "answer": 108,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Flaps landing selected below",
+          "answer": 91,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "The QRC approach-to-stall (landing configuration) procedure: check speed below 108 KIAS, call \"SPEED CHECKED\" and select flaps take-off; check speed below 91 KIAS, call \"SPEED CHECKED\" and select flaps landing.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "flaps",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QB-010",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "During the recovery from an approach to stall in the landing configuration, when are the flaps retracted fully up?",
+      "choices": [
+        "Immediately with the application of full power",
+        "When the speed is above 70 KIAS, after selecting flaps take-off",
+        "When the speed is above 91 KIAS",
+        "Only after reaching the original altitude"
+      ],
+      "answer": 1,
+      "explanation": "The QRC recovery sequence: full power, pitch for climb attitude, select flaps take-off, then at speed >70 KIAS select flaps up, then climb back to the previous altitude.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QB-011",
+      "category": "Numbers & Limits",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "Which bank angles does the QRC prescribe for the approach-to-stall manoeuvres in turns?",
+      "choices": [
+        "Descending turn in approach configuration: 20 degrees; climbing turn with flaps retracted: 15 degrees",
+        "Descending turn in approach configuration: 30 degrees; climbing turn with flaps retracted: 20 degrees",
+        "Descending turn in approach configuration: 15 degrees; climbing turn with flaps retracted: 20 degrees",
+        "Descending turn in approach configuration: 45 degrees; climbing turn with flaps retracted: 30 degrees"
+      ],
+      "answer": 0,
+      "explanation": "The QRC states: start the descending turn in approach configuration with 20 degrees of bank, and start the climbing turn with flaps retracted with 15 degrees of bank. 30 degrees is the normal/descending cruise-turn bank and 45 degrees is the steep-turn bank used elsewhere in the QRC.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "bank",
+        "turning"
+      ]
+    },
+    {
+      "id": "QB-012",
+      "category": "Procedures",
+      "exercise": "10B Stalling",
+      "type": "mcq",
+      "prompt": "In the full stall recovery WITHOUT power (clean), after the pitch-down and \"RECOVER\" call with speed increasing through about 70 KIAS, you adjust pitch for:",
+      "choices": [
+        "Climb attitude at 80 KIAS",
+        "Glide attitude at 75 KIAS, and trim",
+        "Cruise descent at 110 KIAS",
+        "Approach descent at 90 KIAS"
+      ],
+      "answer": 1,
+      "explanation": "The QRC full stall recovery without power: pitch down, call \"RECOVER\", check increasing speed (about 70 KIAS), maintain coordination, then adjust pitch for glide attitude (75 KIAS) and trim; when established in the glide, end the exercise and climb back to the original altitude.",
+      "source": "RAC QRC v1.1, Exercise 10B",
+      "tags": [
+        "stall",
+        "recovery",
+        "glide"
+      ]
+    },
+    {
+      "id": "QB-013",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "What are the FIRST actions of the wing dip recovery in the QRC?",
+      "choices": [
+        "Apply full opposite rudder, then pitch down",
+        "Apply full power and roll wings level with ailerons",
+        "Power idle, ailerons neutral",
+        "Pull up gently while applying full power"
+      ],
+      "answer": 2,
+      "explanation": "Wing dip recovery step 1 in the QRC is: power idle, ailerons neutral. Full opposite rudder comes only after the \"Recover\" call with pitch down below the glide attitude to break the stall.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-014",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "sequence",
+      "prompt": "Put the wing dip recovery in the correct order.",
+      "steps": [
+        "Power idle, ailerons neutral",
+        "Call \"Recover\" and simultaneously pitch down below the glide attitude to break the stall",
+        "Apply full opposite rudder with the feet",
+        "Neutralize the rudder with the feet when rotation stops",
+        "Check for increasing speed (about 80 KIAS)",
+        "Pull gently out of the dive, moving the power lever gently forward to reach full power when the nose passes through the horizon",
+        "Direction with the feet, no bank; adjust pitch for climb attitude (80 KIAS) and climb back to the previous altitude"
+      ],
+      "explanation": "This follows the QRC wing dip recovery: idle power and neutral ailerons first, break the stall with pitch down below glide attitude while calling \"Recover\", stop rotation with full opposite rudder, neutralize rudder when rotation stops, confirm about 80 KIAS, then recover from the dive reaching full power at the horizon and climb at 80 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-015",
+      "category": "Numbers & Limits",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "During the wing dip recovery, at about what speed do you check for increasing speed before pulling out of the dive?",
+      "choices": [
+        "About 70 KIAS",
+        "About 75 KIAS",
+        "About 90 KIAS",
+        "About 80 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "The QRC wing dip recovery step 5 is: check for increasing speed (about 80 KIAS). 70 KIAS is the speed check in the full stall recovery; 75 KIAS is the glide speed.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QB-016",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "sequence",
+      "prompt": "Put the QRC emergency (spin) recovery procedure - 'just in case you don't know the procedure anymore' - in the correct order.",
+      "steps": [
+        "Power idle",
+        "Ailerons and elevator neutral",
+        "Apply full opposite rudder against the rotation",
+        "Neutralize the rudder",
+        "Pull gently out of the dive, wings level",
+        "Full power when the nose is passing the horizon",
+        "Climb back to the desired altitude"
+      ],
+      "explanation": "This is the verbatim QRC emergency recovery sequence: power idle, ailerons and elevator neutral, full opposite rudder against rotation, neutralize rudder, pull gently out of the dive with wings level, full power at the horizon, climb back to the desired altitude.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "emergency",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-017",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "The QRC general emergency recovery procedure is stated to be applicable for:",
+      "choices": [
+        "All aircraft, regardless of certification or loading",
+        "All JAR23 & FAR23 approved aircraft, provided mass & balance falls in the envelope and the aircraft is trimmed for cruise flight",
+        "Only the Diamond DA40-TDI, in any loading condition",
+        "All JAR23 & FAR23 approved aircraft, provided the aircraft is trimmed for approach"
+      ],
+      "answer": 1,
+      "explanation": "The QRC states the general procedure is applicable for all JAR23 & FAR23 approved aircraft, provided mass & balance falls in the envelope and the aircraft is trimmed for cruise flight, and directs the pilot to consult the AFM/Diamond for the DA40 specific procedure.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "emergency",
+        "limitations"
+      ]
+    },
+    {
+      "id": "QB-018",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "In the wing dip recovery, when do you neutralize the rudder?",
+      "choices": [
+        "When the rotation stops",
+        "As soon as full opposite rudder is applied",
+        "When the speed reaches 80 KIAS",
+        "When the nose passes through the horizon"
+      ],
+      "answer": 0,
+      "explanation": "The QRC wing dip recovery: apply full opposite rudder with the feet, then neutralize the rudder with the feet when rotation stops.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "rudder"
+      ]
+    },
+    {
+      "id": "QB-019",
+      "category": "Stall & Spin",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "With the \"Recover\" call in the wing dip recovery, you simultaneously pitch down:",
+      "choices": [
+        "To the horizon, then hold level",
+        "Below the climb attitude",
+        "Below the glide attitude, to break the stall",
+        "To the normal cruise attitude"
+      ],
+      "answer": 2,
+      "explanation": "The QRC wing dip recovery step 2: call \"Recover\" and simultaneously pitch down below the glide attitude to break the stall.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "stall"
+      ]
+    },
+    {
+      "id": "QB-020",
+      "category": "Procedures",
+      "exercise": "11 Spin Avoidance",
+      "type": "mcq",
+      "prompt": "After the rotation has stopped in the wing dip recovery, how is direction controlled while pulling out of the dive?",
+      "choices": [
+        "With ailerons, rolling into a 20-degree bank",
+        "With the feet (rudder), no bank",
+        "With ailerons only, keeping the ball centered",
+        "With differential braking"
+      ],
+      "answer": 1,
+      "explanation": "The QRC wing dip recovery states: direction with feet, no bank, then adjust pitch for climb attitude (80 KIAS) and climb back to the previous altitude.",
+      "source": "RAC QRC v1.1, Exercise 11",
+      "tags": [
+        "spin",
+        "wing-dip",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QB-021",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "What is the correct first call and first action for a rejected take-off?",
+      "choices": [
+        "Call \"Going-around!\" and apply full power",
+        "Make the RT call first, then close the power",
+        "Call \"RECOVER\" and apply full brakes",
+        "Call \"Aborting!\" and close the power immediately"
+      ],
+      "answer": 3,
+      "explanation": "The QRC rejected take-off: step 1 call out \"Aborting!\", step 2 close the power immediately, then maintain the centreline with rudder, brake as necessary, elevator neutral/aileron into the wind, RT call, and vacate the runway as soon as practical.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "rejected-takeoff",
+        "calls"
+      ]
+    },
+    {
+      "id": "QB-022",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "sequence",
+      "prompt": "Put the rejected take-off procedure in the correct order.",
+      "steps": [
+        "Call out: \"Aborting!\"",
+        "Close the power immediately",
+        "Maintain runway centreline using the rudder",
+        "Apply brakes as necessary",
+        "Elevator neutral / aileron into the wind",
+        "RT call: \"call sign, rejected take-off\"",
+        "Vacate the runway as soon as practical"
+      ],
+      "explanation": "This is the verbatim QRC rejected take-off sequence, from the \"Aborting!\" call and immediate power closure through braking, the rejected take-off RT call, and vacating the runway.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "rejected-takeoff",
+        "sequence"
+      ]
+    },
+    {
+      "id": "QB-023",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "sequence",
+      "prompt": "Put the simulated engine failure after take-off (SEFATO) procedure in the correct order.",
+      "steps": [
+        "Pitch for the glide attitude",
+        "Select a landing area and avoid obstacles",
+        "Troubleshoot (time permitting)",
+        "Select flaps take-off when the landing is assured",
+        "Adjust attitude for 75 KIAS (70 KIAS with flaps)",
+        "Plan a full flaps landing",
+        "Crash drill",
+        "Touchdown"
+      ],
+      "explanation": "This is the QRC SEFATO sequence: glide attitude, landing area selection, troubleshooting time permitting, flaps T/O when landing is assured, 75 KIAS (70 KIAS with flaps), full flaps landing planned, crash drill, touchdown. For an actual failure: evacuate and call RAC; for training: go-around at minimum safe height.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "sefato",
+        "engine-failure",
+        "sequence"
+      ]
+    },
+    {
+      "id": "QB-024",
+      "category": "Numbers & Limits",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "In the SEFATO procedure, which approach speeds does the QRC prescribe?",
+      "choices": [
+        "75 KIAS, or 70 KIAS with flaps",
+        "80 KIAS, or 70 KIAS with flaps",
+        "75 KIAS, or 60 KIAS with flaps",
+        "90 KIAS, or 75 KIAS with flaps"
+      ],
+      "answer": 0,
+      "explanation": "The QRC SEFATO step: adjust attitude for 75 KIAS (70 KIAS with flaps).",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "sefato",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QB-025",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "For the glide-in from circuit altitude, how does the QRC modify the downwind leg?",
+      "choices": [
+        "Flaps take-off selected, speed 90 KIAS",
+        "No flaps on downwind, speed 75 KIAS",
+        "Flaps landing selected, speed 75 KIAS",
+        "No flaps on downwind, speed 90 KIAS"
+      ],
+      "answer": 3,
+      "explanation": "The QRC glide-in procedure: fly the standard circuit but with no flaps on downwind at 90 KIAS, maintain circuit altitude on downwind/base depending on wind, close the power lever when the landing is assured, then glide at 75 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "glide-in",
+        "speeds",
+        "flaps"
+      ]
+    },
+    {
+      "id": "QB-026",
+      "category": "Numbers & Limits",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "In the glide-in from circuit altitude, the QRC has you plan a full flaps landing with touchdown at:",
+      "choices": [
+        "70 KIAS",
+        "75 KIAS",
+        "60 KIAS",
+        "65 KIAS"
+      ],
+      "answer": 2,
+      "explanation": "The QRC glide-in procedure: glide speed 75 KIAS, select flaps when the landing is assured, plan a full flaps landing and touch down at 60 KIAS. 65 KIAS is the short field landing approach speed and 70 KIAS the normal final speed.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "glide-in",
+        "speeds",
+        "landing"
+      ]
+    },
+    {
+      "id": "QB-027",
+      "category": "Numbers & Limits",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "numeric",
+      "prompt": "State the QRC flapless landing speeds on each circuit leg.",
+      "parts": [
+        {
+          "label": "Downwind",
+          "answer": 90,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Base leg",
+          "answer": 85,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Final",
+          "answer": 75,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "The QRC flapless landing: maintain 90 KIAS on downwind, 85 KIAS on base leg, power/attitude 75 KIAS on final, with a nose attitude higher than for a normal landing and no flare-out at touchdown.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "flapless",
+        "speeds",
+        "landing"
+      ]
+    },
+    {
+      "id": "QB-028",
+      "category": "Procedures",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "Which technique does the QRC prescribe for the touchdown phase of a flapless landing?",
+      "choices": [
+        "Do not flare out; maintain a slightly higher nose attitude during touchdown",
+        "Normal flare to a full-stall touchdown on the main wheels",
+        "Hold the aircraft off as long as possible at 60 KIAS",
+        "Close the power only after touchdown, in the tempo of the flare"
+      ],
+      "answer": 0,
+      "explanation": "The QRC flapless landing states: nose attitude higher than for a normal landing, and do not flare out - maintain a slightly higher attitude during touchdown. Closing power in the tempo of the flare belongs to the short field landing.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "flapless",
+        "landing",
+        "technique"
+      ]
+    },
+    {
+      "id": "QB-029",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "mcq",
+      "prompt": "How does the QRC define a wave-off, and what does it say about the wheels?",
+      "choices": [
+        "A go-around below 100 ft AGL; the wheels must never touch the runway",
+        "A go-around below 50 ft AGL; due to aircraft inertia the main wheels may briefly touch the runway - do not pull back excessively to prevent this, and do not deliberately land",
+        "A go-around below 50 ft AGL; if the wheels touch, you are committed to land",
+        "A rejected landing at any height; a brief touchdown always ends the manoeuvre"
+      ],
+      "answer": 1,
+      "explanation": "The QRC wave-off: it is a go-around below 50 ft AGL; don't attempt turns at low altitude; due to inertia the main wheels may briefly touch the runway - do not pull back excessively to prevent this and do not deliberately land; then proceed as a go-around.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "wave-off",
+        "go-around"
+      ]
+    },
+    {
+      "id": "QB-030",
+      "category": "Emergencies",
+      "exercise": "12/13E Circuit Emergencies",
+      "type": "self_check",
+      "prompt": "Recite the crash drill items exactly as used in the SEFATO / forced landing context, including which items are touch-drill only.",
+      "model_answer": "Crash drill: Seat belts - fastened; Fuel selector - closed (T); Flaps - set; Electric Master - off (T). (T) = TOUCH DRILL ONLY.",
+      "explanation": "The QRC crash drills list: seat belts fastened, fuel selector closed (T), flaps set, electric master off (T), where (T) means touch drill only. The crash drill is step 8 of the SEFATO procedure in the circuit emergencies exercise.",
+      "source": "RAC QRC v1.1, Exercise 12/13E",
+      "tags": [
+        "crash-drill",
+        "memory",
+        "sefato"
+      ]
+    },
+    {
+      "id": "QC-001",
+      "category": "Procedures",
+      "exercise": "12 Take-off and Climb",
+      "type": "mcq",
+      "prompt": "Normal take-off: what is the FIRST call-out, made after confirming the correct runway from signage/markings?",
+      "choices": [
+        "“Approach sector and runway clear”",
+        "“Runway [number], identified”",
+        "“Runway heading verified”",
+        "“Airspeed alive”"
+      ],
+      "answer": 1,
+      "explanation": "QRC Exercise 12, Normal take-off item 1: confirm correct runway from signage/markings and call “Runway [number], identified”. The other calls come later in the sequence.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "calls"
+      ]
+    },
+    {
+      "id": "QC-002",
+      "category": "Procedures",
+      "exercise": "12 Take-off and Climb",
+      "type": "mcq",
+      "prompt": "Which option lists only correct line-up items per the QRC?",
+      "choices": [
+        "Parking brakes released; transponder ALT; landing light on when clearance received; pitot heat ON in visible moisture or OAT below +5°C",
+        "Parking brakes set; transponder ALT; landing light on when clearance received; pitot heat ON below +15°C",
+        "Parking brakes released; transponder 7700; landing light off for take-off; pitot heat ON in visible moisture or OAT below +5°C",
+        "Parking brakes released; transponder ALT; landing light on only after rotation; pitot heat ON below +10°C"
+      ],
+      "answer": 0,
+      "explanation": "QRC Exercise 12, line-up items: parking brakes released; transponder ALT; landing light on when clearance received; pitot heat ON in visible moisture or if OAT is below +5°C.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "line-up"
+      ]
+    },
+    {
+      "id": "QC-003",
+      "category": "Procedures",
+      "exercise": "12 Take-off and Climb",
+      "type": "mcq",
+      "prompt": "Per the line-up items, when must the pitot heat be switched ON?",
+      "choices": [
+        "Only when flying in IMC",
+        "In visible moisture or if OAT is below +5°C",
+        "Whenever OAT is below +15°C",
+        "Only at night"
+      ],
+      "answer": 1,
+      "explanation": "QRC Exercise 12, line-up items: “Pitot heat ON (in visible moisture or if OAT is below +5°C)”.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "line-up",
+        "pitot-heat"
+      ]
+    },
+    {
+      "id": "QC-004",
+      "category": "Numbers & Limits",
+      "exercise": "12 Take-off and Climb",
+      "type": "mcq",
+      "prompt": "What does the CED check consist of during the take-off roll, before calling “Take-off power set”?",
+      "choices": [
+        "Power 100% / 2300 RPM / all indications green",
+        "Power 90% / 2100 RPM / all indications green",
+        "Power 100% / 2500 RPM / fuel flow stable",
+        "Power 65% / 2300 RPM / all indications green"
+      ],
+      "answer": 0,
+      "explanation": "QRC Exercise 12, Normal take-off item 10: “Check CED — power 100% / 2300 RPM / all indications green”, call out “Take-off power set”.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "CED",
+        "power"
+      ]
+    },
+    {
+      "id": "QC-005",
+      "category": "Numbers & Limits",
+      "exercise": "12 Take-off and Climb",
+      "type": "numeric",
+      "prompt": "Normal take-off (DA40-TDI): give the QRC values for rotation, initial climb, flap retraction height and final climb speed.",
+      "parts": [
+        {
+          "label": "Rotate at (Vr)",
+          "answer": 60,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Pitch for climb speed",
+          "answer": 70,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Select flaps up passing",
+          "answer": 200,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        },
+        {
+          "label": "Then set pitch for climb",
+          "answer": 80,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "QRC Exercise 12, Normal take-off items 13, 14, 17, 18: rotate at 60 KIAS (Vr), climb 70 KIAS, flaps up passing 200 ft AGL, then climb 80 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "speeds",
+        "Vr"
+      ]
+    },
+    {
+      "id": "QC-006",
+      "category": "Numbers & Limits",
+      "exercise": "12 Take-off and Climb",
+      "type": "mcq",
+      "prompt": "Crosswind take-off in a strong crosswind (1/2 gust): what rotation speed does the QRC prescribe?",
+      "choices": [
+        "Vr – 5 KIAS",
+        "Vr + max 5 KIAS",
+        "Vr + max 10 KIAS",
+        "Vr + max 15 KIAS"
+      ],
+      "answer": 1,
+      "explanation": "QRC Exercise 12, Crosswind take-off item 2: “Vr + max 5 KIAS during strong crosswind (1/2 gust)”.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "crosswind"
+      ]
+    },
+    {
+      "id": "QC-007",
+      "category": "Procedures",
+      "exercise": "12 Take-off and Climb",
+      "type": "sequence",
+      "prompt": "Order the key steps of the short field take-off.",
+      "steps": [
+        "Line up at the very beginning of the runway (use all available length)",
+        "Hold the brakes and set full power (100%) 2300 RPM",
+        "Check power / engine instruments",
+        "Release brakes, heels on the floor",
+        "Rotate at 55 KIAS (Vr)",
+        "Accelerate in ground effect once airborne",
+        "Start climb when speed > 59 KIAS"
+      ],
+      "explanation": "QRC Exercise 12, Short field take-off: line up at the very beginning, hold brakes, full power 100%/2300 RPM, check instruments, release brakes, rotate 55 KIAS, accelerate in ground effect, climb when >59 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "short-field"
+      ]
+    },
+    {
+      "id": "QC-008",
+      "category": "Procedures",
+      "exercise": "12 Take-off and Climb",
+      "type": "mcq",
+      "prompt": "Soft field take-off: when do you release the back pressure on the stabilator?",
+      "choices": [
+        "When the nose wheel lifts off",
+        "At 55 KIAS",
+        "Passing 200 ft AGL",
+        "When full power is set"
+      ],
+      "answer": 0,
+      "explanation": "QRC Exercise 12, Soft field take-off: make a rolling take-off, maintain back pressure on the stabilator, and “release back pressure when nose wheel lifts off”.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "soft-field"
+      ]
+    },
+    {
+      "id": "QC-009",
+      "category": "Numbers & Limits",
+      "exercise": "12 Take-off and Climb",
+      "type": "mcq",
+      "prompt": "Obstacle take-off: what is the initial climb speed, and what speed is flown after passing the obstacle?",
+      "choices": [
+        "55 KIAS initial, 70 KIAS after the obstacle",
+        "60 KIAS initial, 70 KIAS after the obstacle",
+        "70 KIAS initial, 80 KIAS after the obstacle",
+        "59 KIAS initial, 80 KIAS after the obstacle"
+      ],
+      "answer": 3,
+      "explanation": "QRC Exercise 12, Obstacle take-off: “Initial climb 59 KIAS; speed 80 KIAS after passing obstacle”.",
+      "source": "RAC QRC v1.1, Exercise 12",
+      "tags": [
+        "take-off",
+        "obstacle"
+      ]
+    },
+    {
+      "id": "QC-010",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "mcq",
+      "prompt": "In the normal circuit, what speed and power setting are used after levelling off at circuit altitude?",
+      "choices": [
+        "110 KIAS, ±65% power",
+        "90 KIAS, ±45% power",
+        "80 KIAS, ±15% power",
+        "75 KIAS, power idle"
+      ],
+      "answer": 1,
+      "explanation": "QRC Exercise 13, Normal circuit item 2: “Speed 90 KIAS, power ±45%”. (110/65% is cruise, 80/15% relates to base, 75 is glide.)",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "circuit",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QC-011",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "mcq",
+      "prompt": "Which bank limits apply in the normal circuit per the QRC?",
+      "choices": [
+        "20° for all turns in the circuit",
+        "30° bank for the crosswind and downwind turns; climbing turn after passing 200 ft max 20° bank; turn to final max 30° bank",
+        "45° bank for crosswind/downwind turns; 30° bank on final",
+        "30° bank for crosswind/downwind turns; climbing turn max 30°; final turn max 45°"
+      ],
+      "answer": 1,
+      "explanation": "QRC Exercise 13, Normal circuit: turns to crosswind and downwind use 30° bank (items 3, 5); a climbing turn after passing 200 ft is permitted with max 20° bank (item 4); turn to final uses maximum 30° of bank (item 11). (45° bank is the steep turn in Exercise 15.)",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "circuit",
+        "bank"
+      ]
+    },
+    {
+      "id": "QC-012",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "self_check",
+      "prompt": "Recite the FRESBL downwind checks from memory, with the content of each item.",
+      "model_answer": "F — Flaps: check speed, call “SPEED CHECKED” → select flaps take-off. R — Radio: downwind call (e.g., PH-RAB downwind runway 06). E — Engine: instruments in green, fuel quantity & balance checked. S — Security: harnesses secure, loose items stowed. B — Brakes: check pressure, heels on floor. L — Lights: landing light ON.",
+      "explanation": "QRC Exercise 13, Normal circuit item 6 lists the FRESBL downwind checks exactly as in the model answer.",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "circuit",
+        "downwind",
+        "FRESBL",
+        "checks"
+      ]
+    },
+    {
+      "id": "QC-013",
+      "category": "Numbers & Limits",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "numeric",
+      "prompt": "Normal circuit, base to final: give the QRC power setting on base, the descent speed, and the final approach speed with flaps LDG.",
+      "parts": [
+        {
+          "label": "Reduce power to (base leg)",
+          "answer": 15,
+          "tolerance": 0,
+          "unit": "%"
+        },
+        {
+          "label": "Maintain altitude until, then descend at",
+          "answer": 80,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "On final, flaps LDG",
+          "answer": 70,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "QRC Exercise 13, Normal circuit items 8, 9, 12: reduce power to ±15% on base, maintain altitude until 80 KIAS then start descent, on final flaps LDG and 70 KIAS trimmed.",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "circuit",
+        "base",
+        "final",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QC-014",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "sequence",
+      "prompt": "Order the normal circuit flow from downwind to established final.",
+      "steps": [
+        "Perform the downwind checks (FRESBL)",
+        "Turn to base leg when the runway is 45° behind",
+        "Reduce power to ±15%",
+        "Maintain altitude until 80 KIAS, then start the descent",
+        "Turn to final with maximum 30° of bank",
+        "On final: flaps LDG, 70 KIAS, trimmed",
+        "Establish on a stabilized glide path"
+      ],
+      "explanation": "QRC Exercise 13, Normal circuit items 6–13 in this order.",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "circuit",
+        "base",
+        "final"
+      ]
+    },
+    {
+      "id": "QC-015",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "sequence",
+      "prompt": "Order the go-around steps.",
+      "steps": [
+        "Call: “Going-around!”",
+        "Set full power (100%)",
+        "Pitch up to arrest the descent (look outside)",
+        "Set flaps take-off",
+        "Pitch for climb attitude (70 KIAS)",
+        "Maintain coordinated flight and reset trim"
+      ],
+      "explanation": "QRC Exercise 13, Go-around items 1–7: call “Going-around!”, full power 100%, pitch up to arrest descent, flaps T/O, climb at 70 KIAS, stay coordinated, reset trim.",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "go-around",
+        "circuit"
+      ]
+    },
+    {
+      "id": "QC-016",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "mcq",
+      "prompt": "Crosswind landing: how is the aircraft aligned with the centreline just before touchdown?",
+      "choices": [
+        "Keep the crab angle through touchdown",
+        "Bank away from the wind and use aileron to align",
+        "Use rudder to de-crab and line up, while banking into the wind",
+        "Touch down on the nose wheel first, then align"
+      ],
+      "answer": 2,
+      "explanation": "QRC Exercise 13, Crosswind landing items 4–5: use rudder to de-crab and line up with the centreline, at the same time bank into the wind to stay above the centreline; land on the main wheels.",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "landing",
+        "crosswind"
+      ]
+    },
+    {
+      "id": "QC-017",
+      "category": "Numbers & Limits",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "mcq",
+      "prompt": "Short field landing: what is the approach speed, and how is the power closed?",
+      "choices": [
+        "65 KIAS; close the power lever gently in the tempo of the flare, ideally just closed at touchdown",
+        "70 KIAS; close the power fully abeam the threshold",
+        "75 KIAS; keep power on until after touchdown",
+        "60 KIAS; close the power at the start of final"
+      ],
+      "answer": 0,
+      "explanation": "QRC Exercise 13, Short field landing: power/attitude 65 KIAS, close the power lever gently in the tempo of the flare; ideally power should just be closed as the aircraft touches down (not before!).",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "landing",
+        "short-field"
+      ]
+    },
+    {
+      "id": "QC-018",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "mcq",
+      "prompt": "Touch and go: after aiming for the centreline, what is the correct sequence of configuration and power?",
+      "choices": [
+        "Flaps LDG, power ±45%",
+        "Flaps up, full power 100%/2300 RPM",
+        "Set flaps take-off (visual check), full power 100%/2300 RPM",
+        "Keep flaps landing, full power 100%/2300 RPM"
+      ],
+      "answer": 2,
+      "explanation": "QRC Exercise 13, Touch and go: aim for the centreline, set flaps take-off (visual check), full power 100%/2300 RPM, proceed as normal take-off.",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "landing",
+        "touch-and-go"
+      ]
+    },
+    {
+      "id": "QC-019",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "mcq",
+      "prompt": "Normal landing: which description matches the QRC?",
+      "choices": [
+        "Aim for the aiming point, keep ±15% power through touchdown, touch down on the nose wheel first, do the after landing checks on downwind",
+        "Close the power at the start of final, hold 75 KIAS to touchdown, touch down on all wheels at once, do the after landing checks before vacating",
+        "Aim for the aiming point, close the power lever gently, flare, touch down on the main wheels, and perform the after landing checks after passing the stop bar",
+        "Aim at 1/3 of the runway, keep 70 KIAS to the flare, touch down tail-low on grass only, do the after landing checks on the runway"
+      ],
+      "answer": 2,
+      "explanation": "QRC Exercise 13, Normal landing: aim for the aiming point, close the power lever gently, flare (item 10), touchdown on main wheels (item 11); after landing checks are memory items performed after passing the stop bar (item 16). (75 KIAS is the glide speed; aiming at 1/3 of the field belongs to the forced landing, Exercise 16.)",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "landing",
+        "normal-landing",
+        "after-landing-checks"
+      ]
+    },
+    {
+      "id": "QC-020",
+      "category": "Numbers & Limits",
+      "exercise": "15 Advanced Turning",
+      "type": "mcq",
+      "prompt": "Steep turn entry: what speed and bank angle does the QRC prescribe?",
+      "choices": [
+        "110 KIAS, 45° bank",
+        "90 KIAS, 30° bank",
+        "110 KIAS, 30° bank",
+        "80 KIAS, 45° bank"
+      ],
+      "answer": 0,
+      "explanation": "QRC Exercise 15, Steep turn: speed 110 KIAS, roll into 45° bank using rudder to counteract adverse yaw.",
+      "source": "RAC QRC v1.1, Exercise 15",
+      "tags": [
+        "steep-turn",
+        "bank"
+      ]
+    },
+    {
+      "id": "QC-021",
+      "category": "Numbers & Limits",
+      "exercise": "15 Advanced Turning",
+      "type": "mcq",
+      "prompt": "During the steep turn, how is power managed?",
+      "choices": [
+        "Increase power by ±10% passing 30° bank; reduce power by ±10% when passing 30° bank on roll-out",
+        "Full power at 45° bank; idle on roll-out",
+        "Reduce power by ±20% passing 30° bank; increase on roll-out",
+        "Power is kept at ±65% throughout"
+      ],
+      "answer": 0,
+      "explanation": "QRC Exercise 15, Steep turn items 4 and 7: passing 30° bank increase power by ±10%; when passing 30° of bank on roll-out, reduce power by ±10%.",
+      "source": "RAC QRC v1.1, Exercise 15",
+      "tags": [
+        "steep-turn",
+        "power"
+      ]
+    },
+    {
+      "id": "QC-022",
+      "category": "Numbers & Limits",
+      "exercise": "15 Advanced Turning",
+      "type": "numeric",
+      "prompt": "Steep turn: give the QRC entry speed, bank angle, and the bank angle at which the power change is made.",
+      "parts": [
+        {
+          "label": "Entry speed",
+          "answer": 110,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Bank angle",
+          "answer": 45,
+          "tolerance": 0,
+          "unit": "degrees"
+        },
+        {
+          "label": "Power changed when passing",
+          "answer": 30,
+          "tolerance": 0,
+          "unit": "degrees bank"
+        }
+      ],
+      "explanation": "QRC Exercise 15, Steep turn: 110 KIAS, 45° bank, power ±10% passing 30° bank (both rolling in and rolling out).",
+      "source": "RAC QRC v1.1, Exercise 15",
+      "tags": [
+        "steep-turn",
+        "numbers"
+      ]
+    },
+    {
+      "id": "QC-023",
+      "category": "Procedures",
+      "exercise": "15 Advanced Turning",
+      "type": "sequence",
+      "prompt": "Order the steep turn steps.",
+      "steps": [
+        "Look out – scan for traffic and select an outside reference point",
+        "Set speed 110 KIAS",
+        "Roll into 45° bank, using rudder to counteract adverse yaw",
+        "Passing 30° bank, increase power by ±10%",
+        "Check bank/slip indicator, altitude/pitch, and maintain 110 KIAS",
+        "Roll out using rudder; passing 30° bank reduce power by ±10%",
+        "Adjust pitch for horizontal flight"
+      ],
+      "explanation": "QRC Exercise 15, Steep turn items 1–8 in this order.",
+      "source": "RAC QRC v1.1, Exercise 15",
+      "tags": [
+        "steep-turn"
+      ]
+    },
+    {
+      "id": "QC-024",
+      "category": "Emergencies",
+      "exercise": "15 Advanced Turning",
+      "type": "sequence",
+      "prompt": "Order the spiral dive recovery steps.",
+      "steps": [
+        "Reduce the power",
+        "Roll out gently, wings level",
+        "Pitch up gently to climb attitude",
+        "Apply full power when the nose passes the horizon",
+        "Climb back to desired altitude"
+      ],
+      "explanation": "QRC Exercise 15, Spiral dive recovery: reduce power first, then roll wings level, then pitch up gently — power and pitch only after the wings are level to avoid tightening the spiral.",
+      "source": "RAC QRC v1.1, Exercise 15",
+      "tags": [
+        "spiral-dive",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QC-025",
+      "category": "Emergencies",
+      "exercise": "15 Advanced Turning",
+      "type": "mcq",
+      "prompt": "Spiral dive recovery: what is the FIRST action?",
+      "choices": [
+        "Pull up firmly to stop the descent",
+        "Apply full power",
+        "Reduce the power",
+        "Apply full opposite rudder"
+      ],
+      "answer": 2,
+      "explanation": "QRC Exercise 15, Spiral dive recovery item 1: “Reduce the power”, then roll out gently wings level, then pitch up gently. (Full opposite rudder belongs to wing dip/spin recovery in Exercise 11.)",
+      "source": "RAC QRC v1.1, Exercise 15",
+      "tags": [
+        "spiral-dive",
+        "recovery"
+      ]
+    },
+    {
+      "id": "QC-026",
+      "category": "Emergencies",
+      "exercise": "16 Forced Landing",
+      "type": "mcq",
+      "prompt": "Forced landing: what is the first speed-related action after the engine failure?",
+      "choices": [
+        "Pitch for 90 KIAS and start the Mayday call",
+        "Immediately select flaps T/O and slow to 60 KIAS",
+        "Maintain altitude till speed bleeds off to 75 KIAS, then pitch for glide attitude and trim for 75 KIAS",
+        "Dive to 110 KIAS to reach a distant field"
+      ],
+      "answer": 2,
+      "explanation": "QRC Exercise 16, Forced landing items 1–2: maintain altitude till speed bleeds off to 75 KIAS while looking for a field, then pitch for glide attitude and trim for 75 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 16",
+      "tags": [
+        "forced-landing",
+        "glide"
+      ]
+    },
+    {
+      "id": "QC-027",
+      "category": "Numbers & Limits",
+      "exercise": "16 Forced Landing",
+      "type": "mcq",
+      "prompt": "Forced landing: below which altitude do you turn direct to base leg for the most suitable landing area?",
+      "choices": [
+        "2000 ft",
+        "500 ft",
+        "1000 ft",
+        "1200 ft"
+      ],
+      "answer": 3,
+      "explanation": "QRC Exercise 16, Forced landing item 3: depending on altitude/position turn downwind; below 1200 ft turn direct base leg for the most suitable landing area.",
+      "source": "RAC QRC v1.1, Exercise 16",
+      "tags": [
+        "forced-landing",
+        "circuit"
+      ]
+    },
+    {
+      "id": "QC-028",
+      "category": "Emergencies",
+      "exercise": "16 Forced Landing",
+      "type": "mcq",
+      "prompt": "Forced landing: which emergency communication actions does the QRC list (time permitting)?",
+      "choices": [
+        "PAN PAN call / transponder 7600 / ELT auto",
+        "Mayday call / transponder 7500 / landing light on",
+        "No radio call; all attention on flying only",
+        "Mayday call / transponder on 7700 / ELT Man. (T)"
+      ],
+      "answer": 3,
+      "explanation": "QRC Exercise 16, Forced landing item 6: “May Day call / transponder on 7700 / ELT Man. (T) (when time permitting)”. (PAN PAN is used for the precautionary landing in Exercise 17.)",
+      "source": "RAC QRC v1.1, Exercise 16",
+      "tags": [
+        "forced-landing",
+        "mayday",
+        "7700"
+      ]
+    },
+    {
+      "id": "QC-029",
+      "category": "Emergencies",
+      "exercise": "16 Forced Landing",
+      "type": "mcq",
+      "prompt": "On final in a forced landing, where should you initially aim in the field?",
+      "choices": [
+        "At the very beginning of the field",
+        "At the last third of the field",
+        "At the 1000 ft point markers",
+        "At 1/3 of the field, to guarantee making the field"
+      ],
+      "answer": 3,
+      "explanation": "QRC Exercise 16, Forced landing item 10: “On final aim at 1/3 of the field to guarantee making the field”; only when landing is assured shift the aiming point to the beginning of the field (item 14).",
+      "source": "RAC QRC v1.1, Exercise 16",
+      "tags": [
+        "forced-landing",
+        "aiming-point"
+      ]
+    },
+    {
+      "id": "QC-030",
+      "category": "Numbers & Limits",
+      "exercise": "16 Forced Landing",
+      "type": "numeric",
+      "prompt": "Forced landing speeds: give the QRC values for the glide, the approach with flaps T/O, and the planned full-flaps landing speed.",
+      "parts": [
+        {
+          "label": "Trim for glide",
+          "answer": 75,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Flaps T/O when landing assured, adjust attitude for",
+          "answer": 70,
+          "tolerance": 0,
+          "unit": "KIAS"
+        },
+        {
+          "label": "Plan full flaps landing at",
+          "answer": 60,
+          "tolerance": 0,
+          "unit": "KIAS"
+        }
+      ],
+      "explanation": "QRC Exercise 16, Forced landing items 2, 11–13: trim 75 KIAS; flaps T/O when landing assured and adjust attitude for 70 KIAS; plan full flaps landing 60 KIAS.",
+      "source": "RAC QRC v1.1, Exercise 16",
+      "tags": [
+        "forced-landing",
+        "speeds"
+      ]
+    },
+    {
+      "id": "QC-031",
+      "category": "Emergencies",
+      "exercise": "16 Forced Landing",
+      "type": "sequence",
+      "prompt": "Order the forced landing procedure from engine failure to final approach.",
+      "steps": [
+        "Maintain altitude till speed bleeds off to 75 KIAS; pitch for glide attitude and trim for 75 KIAS",
+        "Turn downwind and select a landing area (below 1200 ft turn direct base leg)",
+        "Perform abbreviated troubleshoot; Mayday call / transponder 7700 / ELT Man. (T)",
+        "Proceed to the 1000 ft point; expanded troubleshoot / restart if possible",
+        "After passing the 1000 ft point, turn to base leg",
+        "On final aim at 1/3 of the field; flaps T/O when landing assured",
+        "Adjust attitude for 70 KIAS; plan full flaps landing at 60 KIAS",
+        "Perform crash drills"
+      ],
+      "explanation": "QRC Exercise 16, Forced landing procedure items 1–13 and crash drills, in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 16",
+      "tags": [
+        "forced-landing",
+        "procedure"
+      ]
+    },
+    {
+      "id": "QC-032",
+      "category": "Emergencies",
+      "exercise": "16 Forced Landing",
+      "type": "mcq",
+      "prompt": "Forced landing crash drills: which set is correct, and what does (T) mean?",
+      "choices": [
+        "Seat belts fastened, fuel selector closed (T), flaps set, electric master off (T); (T) = TOUCH DRILL ONLY",
+        "Seat belts fastened, fuel selector open, flaps up, electric master on; (T) = TRAINING ONLY",
+        "Seat belts loose, fuel selector closed, flaps set, electric master off; (T) = TAXI ONLY",
+        "Seat belts fastened, fuel selector closed (T), flaps up, electric master on (T); (T) = TOUCHDOWN ONLY"
+      ],
+      "answer": 0,
+      "explanation": "QRC Exercise 16, Crash drills: seat belts fastened, fuel selector closed (T), flaps set, electric master off (T); “(T) = TOUCH DRILL ONLY!!!”.",
+      "source": "RAC QRC v1.1, Exercise 16",
+      "tags": [
+        "forced-landing",
+        "crash-drills"
+      ]
+    },
+    {
+      "id": "QC-033",
+      "category": "Emergencies",
+      "exercise": "17 Precautionary Landing",
+      "type": "self_check",
+      "prompt": "When should you consider a precautionary landing, and what are the QRC requirements for a landing field?",
+      "model_answer": "Consider a precautionary landing when: weather deteriorates below VMC minima; after UDP; or other circumstances affecting flight safety that require it (the aircraft should be technically in good condition). Field requirements: no obstacles on final (or upwind); long enough (minimum 300 m); headwind (or light crosswind); flat; preference for (short) grassland over plowed land.",
+      "explanation": "QRC Exercise 17, “Consider a precautionary landing when” and “Requirements for a landing field” lists.",
+      "source": "RAC QRC v1.1, Exercise 17",
+      "tags": [
+        "precautionary-landing",
+        "field-requirements"
+      ]
+    },
+    {
+      "id": "QC-034",
+      "category": "Emergencies",
+      "exercise": "17 Precautionary Landing",
+      "type": "mcq",
+      "prompt": "Precautionary landing: which radio/transponder/ELT actions does the QRC prescribe?",
+      "choices": [
+        "Mayday call / transponder 7700 / ELT Man. (T)",
+        "PAN PAN call / transponder on 7700 / ELT Man. (T)",
+        "PAN PAN call / transponder 7600 / ELT off",
+        "No call required, squawk 7000"
+      ],
+      "answer": 1,
+      "explanation": "QRC Exercise 17, procedure item 3: “PAN PAN call / transponder on 7700 / ELT man (T)”. (Mayday belongs to the forced landing, Exercise 16.)",
+      "source": "RAC QRC v1.1, Exercise 17",
+      "tags": [
+        "precautionary-landing",
+        "panpan",
+        "7700"
+      ]
+    },
+    {
+      "id": "QC-035",
+      "category": "Numbers & Limits",
+      "exercise": "17 Precautionary Landing",
+      "type": "numeric",
+      "prompt": "Precautionary landing: give the QRC circuit height, inspection run height, and minimum field length.",
+      "parts": [
+        {
+          "label": "Close circuit flown at",
+          "answer": 500,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        },
+        {
+          "label": "Inspection run carried out at",
+          "answer": 200,
+          "tolerance": 0,
+          "unit": "ft AGL"
+        },
+        {
+          "label": "Landing field long enough (min.)",
+          "answer": 300,
+          "tolerance": 0,
+          "unit": "m"
+        }
+      ],
+      "explanation": "QRC Exercise 17: fly a close circuit at 500 ft AGL (item 5), inspection run at 200 ft AGL (item 7), field long enough min. 300 m (field requirements).",
+      "source": "RAC QRC v1.1, Exercise 17",
+      "tags": [
+        "precautionary-landing",
+        "heights"
+      ]
+    },
+    {
+      "id": "QC-036",
+      "category": "Emergencies",
+      "exercise": "17 Precautionary Landing",
+      "type": "mcq",
+      "prompt": "In the precautionary landing pattern, when do you turn to final?",
+      "choices": [
+        "When the landing area is 45° behind",
+        "When the landing area is 90° abeam",
+        "When the landing area is 60° behind the wing",
+        "Immediately after the inspection run at 200 ft AGL"
+      ],
+      "answer": 2,
+      "explanation": "QRC Exercise 17, procedure item 14: “Turn to final when the landing area is 60° behind the wing”. (45° behind is the base-turn cue in the normal circuit, Exercise 13.)",
+      "source": "RAC QRC v1.1, Exercise 17",
+      "tags": [
+        "precautionary-landing",
+        "final"
+      ]
+    },
+    {
+      "id": "QC-037",
+      "category": "Emergencies",
+      "exercise": "17 Precautionary Landing",
+      "type": "sequence",
+      "prompt": "Order the precautionary landing procedure after selecting the field.",
+      "steps": [
+        "Perform downwind checks, select flaps T/O, PAN PAN call / transponder 7700 / ELT man (T)",
+        "Position on downwind of the suitable field and fly a close circuit at 500 ft AGL",
+        "Make a descending turn towards the area and carry out an inspection run at 200 ft AGL",
+        "Climb back to 500 ft AGL, flaps up on the up-wind leg, turn crosswind then downwind (downwind checks)",
+        "Turn to final when the landing area is 60° behind the wing",
+        "Carry out a short field landing",
+        "Evacuate the airplane and call RAC"
+      ],
+      "explanation": "QRC Exercise 17, Precautionary landing procedure items 1–16 condensed in QRC order.",
+      "source": "RAC QRC v1.1, Exercise 17",
+      "tags": [
+        "precautionary-landing",
+        "procedure"
+      ]
+    },
+    {
+      "id": "QC-038",
+      "category": "Circuit & Landing",
+      "exercise": "13 Circuit, Approach and Landing",
+      "type": "mcq",
+      "prompt": "Soft field landing (grass runway): what does the QRC prescribe after touchdown?",
+      "choices": [
+        "Brake firmly and bring the aircraft to a stop as soon as possible",
+        "Lower the nose immediately and vacate the runway at the first exit",
+        "Maintain backpressure on the elevator to relieve the nose wheel, decelerate gently without excessive brakes, keep the aircraft rolling, and perform the after landing checks while rolling",
+        "Hold the nose wheel off as long as possible, then stop on the runway to perform the after landing checks"
+      ],
+      "answer": 2,
+      "explanation": "QRC Exercise 13, Soft field landing: after touchdown and during taxi maintain backpressure on the elevator to relieve the nose wheel, decelerate gently without excessive brakes, keep aileron in the wind, keep the aircraft rolling, and perform the after landing checks while rolling.",
+      "source": "RAC QRC v1.1, Exercise 13",
+      "tags": [
+        "landing",
+        "soft-field"
+      ]
+    }
+  ]
+}

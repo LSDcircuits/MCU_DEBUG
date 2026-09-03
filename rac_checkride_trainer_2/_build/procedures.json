@@ -1,0 +1,1225 @@
+{"procedures": [
+{
+  "id": "PROC-06-SL",
+  "exercise": "6 Straight and Level",
+  "title": "Straight-and-level flight",
+  "kind": "procedure",
+  "briefing": "Basic cruise technique for Exercise 6: establish and maintain straight and level flight at cruise speed using an outside reference point.",
+  "steps": [
+    "Look out - select an outside reference point",
+    "Pitch for horizontal flight",
+    "Speed 110 KIAS (approx. 65% power setting)",
+    "Trim as required",
+    "Maintain wings level using ailerons",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Look out and check: fuel quantity and fuel balance, radio, engine instruments, direction (outside reference point), altitude"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "110 KIAS at approx. 65% power setting",
+    "Wings level using ailerons, ball centered",
+    "Direction (outside reference point) and altitude maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-06-LOCLIMB",
+  "exercise": "6 Straight and Level",
+  "title": "Level-off from climb (110 KIAS)",
+  "kind": "procedure",
+  "briefing": "Used to level off at the target altitude after a climb and accelerate to cruise speed.",
+  "steps": [
+    "Approx. 20 ft before target altitude, set pitch for horizontal flight",
+    "Maintain wings level using ailerons",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Approaching 110 KIAS, approx. 65% power",
+    "Trim as required"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Pitch for horizontal flight approx. 20 ft before target altitude",
+    "110 KIAS at approx. 65% power",
+    "Wings level, ball centered"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-07-CLIMB",
+  "exercise": "7 Climbing",
+  "title": "Transition to climb (80 KIAS)",
+  "kind": "procedure",
+  "briefing": "Used in Exercise 7 to transition from cruise to a full-power climb at 80 KIAS.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Check engine instruments",
+    "Pitch for climb attitude (80 KIAS)",
+    "Approaching 80 KIAS, set full power (100%)",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Trim as required",
+    "Look out and check: pitch attitude, direction, wings level, airspeed"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "80 KIAS climb attitude with full power (100%)",
+    "Ball centered, pitch attitude, direction and wings level maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-08-CRUISEDES",
+  "exercise": "8 Descending",
+  "title": "Transition to cruise descent (110 KIAS)",
+  "kind": "procedure",
+  "briefing": "Standard descent technique for Exercise 8: a cruise descent at 110 KIAS and 500 ft/min.",
+  "steps": [
+    "Reduce power to approx. 20% (standard descent 500 ft/min)",
+    "Pitch to maintain 110 KIAS",
+    "Trim as required",
+    "Maintain wings level using ailerons",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Look out and check: pitch attitude, direction, wings level, airspeed"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Approx. 20% power for a standard descent of 500 ft/min",
+    "110 KIAS maintained",
+    "Wings level, ball centered"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-08-CRUISELO",
+  "exercise": "8 Descending",
+  "title": "Level-off from cruise descent",
+  "kind": "procedure",
+  "briefing": "Used to level off at the target altitude from a cruise descent and return to cruise flight.",
+  "steps": [
+    "Approx. 20 ft before the target altitude, increase power to approx. 65%",
+    "Pitch for horizontal flight",
+    "Trim as required",
+    "Maintain wings level using ailerons",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Speed 110 KIAS (approx. 65% power)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Power increased to approx. 65% approx. 20 ft before the target altitude",
+    "110 KIAS at approx. 65% power",
+    "Wings level, ball centered"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-08-APPDES",
+  "exercise": "8 Descending",
+  "title": "Transition to descent for approach (90 KIAS)",
+  "kind": "procedure",
+  "briefing": "Used to transition from cruise to a 90 KIAS descent for approach.",
+  "steps": [
+    "Lookout - safety scan for traffic",
+    "Power - smoothly reduce power lever to approx. 20%",
+    "Attitude - maintain backpressure to decelerate to 90 KIAS, then set pitch attitude to capture descent",
+    "Trim - trim as required to maintain 90 KIAS"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "90 KIAS maintained at approx. 20% power",
+    "Descent captured with pitch attitude"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-08-APPLO",
+  "exercise": "8 Descending",
+  "title": "Level-off from descent for approach (90 KIAS)",
+  "kind": "procedure",
+  "briefing": "Used to level off at the target altitude from a descent for approach at 90 KIAS.",
+  "steps": [
+    "Approx. 50 ft before target altitude, smoothly increase power to level flight setting (approx. 45%)",
+    "Attitude - pitch for horizontal flight (nose attitude is slightly higher than normal cruise)",
+    "Trim - trim as required to maintain 90 KIAS"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Power smoothly increased to approx. 45% approx. 50 ft before target altitude",
+    "90 KIAS maintained; nose attitude slightly higher than normal cruise"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-08-GLIDEDES",
+  "exercise": "8 Descending",
+  "title": "Transition to glide descent (75 KIAS)",
+  "kind": "procedure",
+  "briefing": "Used to transition to a power-off glide descent at 75 KIAS.",
+  "steps": [
+    "Look out - select an outside reference point",
+    "Check engine instruments",
+    "Power idle",
+    "Set pitch for gliding flight (75 KIAS)",
+    "Trim as required",
+    "Maintain wings level using ailerons",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Look out and check: pitch attitude, direction, wings level, airspeed"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "75 KIAS gliding flight with power idle",
+    "Wings level, ball centered"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-08-GLIDELO",
+  "exercise": "8 Descending",
+  "title": "Level-off from glide descent",
+  "kind": "procedure",
+  "briefing": "Used to level off at the target altitude from a glide descent and accelerate back to cruise.",
+  "steps": [
+    "Approx. 100 ft before the target altitude, increase power to increase speed to 110 KIAS (approx. 65% power)",
+    "Pitch for horizontal flight",
+    "Maintain wings level using ailerons",
+    "Maintain coordinated flight using rudder (ball centered)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Power increased approx. 100 ft before the target altitude",
+    "110 KIAS at approx. 65% power",
+    "Wings level, ball centered"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-09-TURN",
+  "exercise": "9 Turning",
+  "title": "Normal coordinated turn (30 degrees bank)",
+  "kind": "procedure",
+  "briefing": "Basic turning technique for Exercise 9: a coordinated level turn at 30 degrees of bank.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Roll into 30 degrees bank, use rudder to counteract adverse yaw",
+    "Look out and check: bank / slip indicator, altitude / pitch",
+    "Roll out, use rudder to counteract adverse yaw"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "30 degrees of bank maintained",
+    "Coordinated flight (adverse yaw counteracted with rudder)",
+    "Altitude / pitch maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-09-CLIMBTURN",
+  "exercise": "9 Turning",
+  "title": "Climbing turn",
+  "kind": "procedure",
+  "briefing": "Combines the Exercise 7 climb with a turn; bank is limited to a maximum of 20 degrees.",
+  "steps": [
+    "Look out, check engine instruments",
+    "Establish normal climb (as explained in Exercise 7)",
+    "Max. bank 20 degrees, use rudder to counteract adverse yaw",
+    "Look out and check: bank / slip indicator, speed / pitch",
+    "Roll out, stay coordinated",
+    "Level-off (as explained in Exercise 7)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Maximum 20 degrees of bank",
+    "Coordinated flight throughout roll-in and roll-out",
+    "Normal climb (Exercise 7) and level-off maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-09-DESTURN",
+  "exercise": "9 Turning",
+  "title": "Descending turn",
+  "kind": "procedure",
+  "briefing": "Combines the Exercise 8 cruise descent with a turn at 30 degrees of bank.",
+  "steps": [
+    "Look out",
+    "Establish cruise descent (as explained in Chapter 8, power approx. 25%)",
+    "Bank 30 degrees, use rudder to counteract adverse yaw",
+    "Look out and check: bank / slip indicator, speed / pitch",
+    "Look out, roll out, stay coordinated",
+    "Level-off or continue descent (as explained in Chapter 8)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "30 degrees of bank",
+    "Cruise descent at approx. 25% power",
+    "Coordinated flight throughout"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10A-DEC60",
+  "exercise": "10A Slow Flight",
+  "title": "Decelerate from 110 to 60 KIAS (flaps T/O)",
+  "kind": "procedure",
+  "briefing": "Exercise 10A slow flight entry with flaps take-off: decelerate from cruise to 60 KIAS while maintaining altitude and direction.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Set power approx. 20%",
+    "Flaps T/O below 108 KIAS, adjust pitch",
+    "Maintain altitude / direction",
+    "Speed approaches 60 KIAS, set power approx. 35%",
+    "Trim"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Flaps T/O selected below 108 KIAS",
+    "60 KIAS at approx. 35% power",
+    "Altitude and direction maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10A-ACC110F",
+  "exercise": "10A Slow Flight",
+  "title": "Accelerate from 60 to 110 KIAS (flaps T/O)",
+  "kind": "procedure",
+  "briefing": "Recovery from slow flight with flaps take-off: accelerate back to cruise at 110 KIAS.",
+  "steps": [
+    "Full power (100%)",
+    "Flaps up (speed approx. 70 KIAS), adjust pitch",
+    "Maintain altitude / direction",
+    "Approaching 110 KIAS, reduce power to approx. 65%",
+    "Readjust pitch and trim",
+    "Check horizontal flight"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Full power (100%) for the acceleration",
+    "Flaps up at approx. 70 KIAS",
+    "110 KIAS at approx. 65% power, altitude and direction maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10A-DEC65",
+  "exercise": "10A Slow Flight",
+  "title": "Decelerate from 110 to 65 KIAS (flaps up)",
+  "kind": "procedure",
+  "briefing": "Exercise 10A slow flight entry in the clean configuration: decelerate from cruise to 65 KIAS while maintaining altitude and direction.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Set power approx. 20%",
+    "Readjust pitch and trim",
+    "Approaching 65 KIAS, power approx. 35%",
+    "Trim",
+    "Maintain altitude / direction"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "65 KIAS at approx. 35% power, flaps up",
+    "Altitude and direction maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10A-ACC110C",
+  "exercise": "10A Slow Flight",
+  "title": "Accelerate from 65 to 110 KIAS (flaps up)",
+  "kind": "procedure",
+  "briefing": "Recovery from clean slow flight: accelerate back to cruise at 110 KIAS.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Full power (100%)",
+    "Maintain altitude / direction / engine instruments",
+    "Approaching 110 KIAS, reduce power to approx. 65%",
+    "Readjust pitch and trim",
+    "Check horizontal flight"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Full power (100%) for the acceleration",
+    "110 KIAS at approx. 65% power, flaps up",
+    "Altitude and direction maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10A-ACCMAX",
+  "exercise": "10A Slow Flight",
+  "title": "Accelerate from 65 KIAS to max speed",
+  "kind": "procedure",
+  "briefing": "Exercise 10A technique to accelerate from slow flight (65 KIAS) to maximum speed at full power.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Check engine instruments",
+    "Full power (100%)",
+    "Maintain altitude / direction",
+    "Adjust pitch and trim"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Full power (100%)",
+    "Altitude and direction maintained",
+    "Pitch and trim adjusted for max speed"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-PRESTALL",
+  "exercise": "10B Stalling",
+  "title": "Pre-stall checklist",
+  "kind": "checklist",
+  "briefing": "Inside and outside inspection performed before every stall, also before every approach to the stall.",
+  "steps": [
+    "Inside inspection - Trim: checked (trimmed for level flight)",
+    "Inside inspection - Flaps: retracted (UP)",
+    "Inside inspection - Engine: checked (instruments in green, fuel balanced)",
+    "Inside inspection - Security: checked (harnesses tight, baggage stowed)",
+    "Outside inspection - Altitude: checked",
+    "Outside inspection - Position: checked",
+    "Outside inspection - Orientation: checked",
+    "Outside inspection - Sky: free"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Recovered before: full stall 2000 ft AGL dual / 3000 ft AGL solo; approach to the stall 1500 ft AGL dual / 2500 ft AGL solo",
+    "Never stall above built up areas, harbours and industrial areas, populated areas, airports / CTRs, extended water areas, 4/8 clouds or more, or other traffic",
+    "Orientation: choose an outside reference point",
+    "Sky: make 90 degrees right and left clearing turns or a left hand 180 degrees turn to check the airspace ahead and below for other traffic"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-FSENTRY",
+  "exercise": "10B Stalling",
+  "title": "Full stall without flaps selected (clean)",
+  "kind": "procedure",
+  "briefing": "Full stall entry in the clean configuration; preceded by the pre-stall checklist and a crew briefing covering type of stall, altitude to maintain and regain, and direction or heading to maintain.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Power idle",
+    "Maintain altitude, don't use the trim",
+    "Maintain coordinated flight",
+    "Move the stick progressively backwards until the stall"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Full stall recognised by nose and/or wing drop or (excessive) rate of descent with full back pressure",
+    "Recovery of the stall is started at nose and/or wing drop or (excessive) rate of descent with full back pressure"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-FSRECPWR",
+  "exercise": "10B Stalling",
+  "title": "Full stall recovery with power (clean)",
+  "kind": "procedure",
+  "briefing": "Standard full stall recovery using power, returning to the original altitude in a climb.",
+  "steps": [
+    "Pitch down to reduce the angle of attack, simultaneously call \"RECOVER\"",
+    "Check for increasing speed (approx. 70 KIAS)",
+    "Pitch up gently while moving the power lever gently forward to reach full power when the nose is passing through the horizon",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Pitch for climb attitude (80 KIAS)",
+    "Climb back to original altitude",
+    "Speed 110 KIAS (approx. 65%)"
+  ],
+  "callouts": ["RECOVER"],
+  "completion_standards": [
+    "Speed increasing (approx. 70 KIAS) before pitching up",
+    "Full power reached as the nose passes through the horizon",
+    "Climb attitude 80 KIAS, climb back to original altitude, then 110 KIAS (approx. 65%)"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-FSRECNOPWR",
+  "exercise": "10B Stalling",
+  "title": "Full stall recovery without power (clean)",
+  "kind": "procedure",
+  "briefing": "Full stall recovery without using power; the aircraft is established in a glide before climbing back to the original altitude.",
+  "steps": [
+    "Pitch down to reduce the angle of attack, simultaneously call \"RECOVER\"",
+    "Check for increasing speed (approx. 70 KIAS)",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Adjust pitch for glide attitude (75 KIAS), trim",
+    "When established in the glide, end the exercise and climb back to original altitude",
+    "Speed 110 KIAS (approx. 65%)"
+  ],
+  "callouts": ["RECOVER"],
+  "completion_standards": [
+    "Speed increasing (approx. 70 KIAS)",
+    "Glide attitude 75 KIAS established and trimmed",
+    "Climb back to original altitude, then 110 KIAS (approx. 65%)"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-ATSLDG",
+  "exercise": "10B Stalling",
+  "title": "Approach to stall in the landing configuration",
+  "kind": "procedure",
+  "briefing": "Approach-to-stall entry in the landing configuration; recover at the first indication of the approaching stall.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Reduce to downwind speed, power approx. 20%",
+    "Approaching 90 KIAS, power approx. 45%",
+    "Check speed below 108 KIAS, call \"SPEED CHECKED\" -> select flaps take-off",
+    "Power approx. 15%",
+    "Check speed below 91 KIAS, call \"SPEED CHECKED\" -> select flaps landing",
+    "Maintain altitude (don't use the trim)",
+    "Wait for the first indication of approaching the stall"
+  ],
+  "callouts": ["SPEED CHECKED", "SPEED CHECKED"],
+  "completion_standards": [
+    "Flaps take-off below 108 KIAS, flaps landing below 91 KIAS",
+    "Recover at stall warning, 5 KIAS above the bottom white arc with flaps landing, or the buffet - whichever comes first"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-ATSRLDG",
+  "exercise": "10B Stalling",
+  "title": "Approach to stall recovery in the landing configuration",
+  "kind": "procedure",
+  "briefing": "Recovery from an approach to stall in the landing configuration with full power, climbing back to the previous altitude.",
+  "steps": [
+    "Recover at the stall warning, buffet or 5 KIAS above the bottom of the white arc, whichever comes first",
+    "Pitch down slightly to reduce the angle of attack, simultaneously call \"RECOVER\"",
+    "Smoothly apply full power (100%)",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Pull up gently, pitch for climb attitude",
+    "Select flaps take-off",
+    "Speed > 70 KIAS, flaps up",
+    "Climb back to previous altitude",
+    "Speed 110 KIAS (approx. 65%)"
+  ],
+  "callouts": ["RECOVER"],
+  "completion_standards": [
+    "Recovery at stall warning, buffet or 5 KIAS above the bottom of the white arc, whichever comes first",
+    "Flaps up above 70 KIAS",
+    "Climb back to previous altitude, then 110 KIAS (approx. 65%)"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-ATSDES",
+  "exercise": "10B Stalling",
+  "title": "Approach to stall in descending turn in approach configuration",
+  "kind": "procedure",
+  "briefing": "Approach-to-stall entry in a descending turn in the approach configuration, simulating a base-to-final scenario.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Reduce to downwind speed, power approx. 20%",
+    "Approaching 90 KIAS, power approx. 45%",
+    "Check speed below 108 KIAS, call \"SPEED CHECKED\" -> select flaps take-off",
+    "Power approx. 15%",
+    "Start descending turn with 20 degrees bank",
+    "Slowly raise the nose until airspeed bleeds off",
+    "Wait for the first indication of approaching the stall"
+  ],
+  "callouts": ["SPEED CHECKED"],
+  "completion_standards": [
+    "Flaps take-off below 108 KIAS",
+    "Descending turn with 20 degrees of bank",
+    "Recover at stall warning, buffet or 5 knots above the bottom of the white arc, whichever comes first"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-ATSRDES",
+  "exercise": "10B Stalling",
+  "title": "Approach to stall recovery for descending turn in approach configuration",
+  "kind": "procedure",
+  "briefing": "Recovery from an approach to stall in a descending turn: level the wings and apply full power.",
+  "steps": [
+    "Recovery at the stall warning, buffet or 5 knots above the bottom of the white arc whichever comes first",
+    "Pitch down to reduce the angle of attack, simultaneously call \"RECOVER\"",
+    "Roll wings level",
+    "Smoothly apply full power (100%)",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Pitch for climb attitude (80 KIAS)",
+    "Flaps up",
+    "Climb back to original altitude"
+  ],
+  "callouts": ["RECOVER"],
+  "completion_standards": [
+    "Recovery at stall warning, buffet or 5 knots above the bottom of the white arc, whichever comes first",
+    "Climb attitude 80 KIAS, climb back to original altitude"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-ATSCLB",
+  "exercise": "10B Stalling",
+  "title": "Approach to stall in climbing turn with flaps retracted",
+  "kind": "procedure",
+  "briefing": "Approach-to-stall entry in a climbing turn in the clean configuration, simulating a departure scenario.",
+  "steps": [
+    "Look out, PID or heading",
+    "Flaps up configuration",
+    "Start climbing turn with 15 degrees bank",
+    "Slowly raise the nose until airspeed bleeds off",
+    "Wait for a sign of the approaching stall"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Climbing turn with 15 degrees of bank, flaps up",
+    "Recover at stall warning, 5 KIAS above the bottom of the green arc with flaps landing, or the buffet - whichever comes first"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-10B-ATSRCLB",
+  "exercise": "10B Stalling",
+  "title": "Approach to stall recovery for climbing turn with flaps retracted",
+  "kind": "procedure",
+  "briefing": "Recovery from an approach to stall in a climbing turn: roll out of the turn and accelerate under full power.",
+  "steps": [
+    "Recovery at the stall warning, buffet or 5 knots above the bottom of the green arc, whichever comes first",
+    "Pitch down to reduce the angle of attack, simultaneously call \"RECOVER\"",
+    "Roll out of the turn",
+    "Maintain full power, accelerate to 110 KIAS",
+    "Maintain coordinated flight using rudder (ball centered)",
+    "Climb or descent to desired altitude"
+  ],
+  "callouts": ["RECOVER"],
+  "completion_standards": [
+    "Recovery at stall warning, buffet or 5 knots above the bottom of the green arc, whichever comes first",
+    "Full power maintained, accelerate to 110 KIAS",
+    "Return to desired altitude"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-11-WINGDIP",
+  "exercise": "11 Spin Avoidance",
+  "title": "Wing dip recovery",
+  "kind": "emergency",
+  "briefing": "Exercise 11 recovery technique for a wing dip at the incipient spin; breaks the stall and stops the rotation.",
+  "steps": [
+    "Power idle, ailerons neutral",
+    "Call \"Recover\" simultaneous pitch down below glide attitude to break the stall",
+    "Full opposite rudder with feet",
+    "Neutralize the rudder with feet when rotation stops",
+    "Check for increasing speed (approx. 80 KIAS)",
+    "Pull gently out of the dive, while moving the power lever gently forward, to reach full power when the nose is passing through the horizon",
+    "Direction with feet, no bank",
+    "Adjust pitch for climb attitude (80 KIAS)",
+    "Climb back to previous altitude"
+  ],
+  "callouts": ["Recover"],
+  "completion_standards": [
+    "Rotation stopped with full opposite rudder",
+    "Speed increasing (approx. 80 KIAS)",
+    "Full power reached as the nose passes through the horizon",
+    "Climb attitude 80 KIAS, climb back to previous altitude"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-11-SPINREC",
+  "exercise": "11 Spin Avoidance",
+  "title": "Emergency spin recovery",
+  "kind": "emergency",
+  "briefing": "Just in case you don't know the procedure anymore; this general procedure is applicable for all JAR23 & FAR23 approved aircraft, provided mass & balance falls in the envelope and the aircraft is trimmed for cruise flight. Consult the AFM/Diamond for the DA40 specific procedure.",
+  "steps": [
+    "Power idle",
+    "Ailerons and elevator neutral",
+    "Apply full opposite rudder against rotation",
+    "Neutralize rudder",
+    "Pull gently out of the dive, wings level",
+    "Full power when nose is passing the horizon",
+    "Climb back to desired altitude"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Rotation stopped, wings level",
+    "Full power when nose is passing the horizon",
+    "Climb back to desired altitude"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+
+  "id": "PROC-12-NORMTO",
+  "exercise": "12 Take-off and Climb",
+  "title": "Normal take-off",
+  "kind": "procedure",
+  "briefing": "Standard Exercise 12 take-off and initial climb procedure for the DA40-TDI, including all line-up items and verbal calls.",
+  "steps": [
+    "Confirm correct runway from signage / markings. Call out: \"Runway [number], identified\"",
+    "Scan the approach sector and the full length of the runway. Call out: \"Approach sector and runway clear\"",
+    "Line-up items: parking brakes released, transponder ALT, landing light on when clearance received, pitot heat ON (in visible moisture or if OAT is below +5 degrees C)",
+    "Line up on the runway centerline",
+    "Check runway direction. Call out: \"Runway heading verified\"",
+    "Check the windsock, ailerons into the wind",
+    "Heels on the floor, look down the end of the runway",
+    "Set full power (100%)",
+    "Maintain runway centreline using the rudder",
+    "Check CED - power 100% / 2300 RPM / all indications green. Call out: \"Take-off power set\"",
+    "Confirm the airspeed indicator is reading. Call out: \"Airspeed alive\"",
+    "Reduce ailerons input when accelerating / keep glare shield parallel to horizon",
+    "Rotate at 60 KIAS (Vr)",
+    "Pitch for climb speed 70 KIAS",
+    "Maintain runway track using ailerons",
+    "Maintain coordination using the rudder (ball centered)",
+    "Passing 200 ft AGL select flaps up",
+    "Set pitch for climb 80 KIAS"
+  ],
+  "callouts": ["Runway [number], identified", "Approach sector and runway clear", "Runway heading verified", "Take-off power set", "Airspeed alive"],
+  "completion_standards": [
+    "CED check: power 100% / 2300 RPM / all indications green",
+    "Rotate at 60 KIAS (Vr), pitch for climb speed 70 KIAS",
+    "Flaps up passing 200 ft AGL",
+    "Climb at 80 KIAS on runway track, ball centered"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-12-XWINDTO",
+  "exercise": "12 Take-off and Climb",
+  "title": "Crosswind take-off",
+  "kind": "procedure",
+  "briefing": "Take-off in crosswind conditions: as a normal take-off with a slightly higher rotation speed and a coordinated turn into the wind once airborne.",
+  "steps": [
+    "Proceed as normal take off (items 1-10)",
+    "Vr + max 5 KIAS during strong crosswind (1/2 gust)",
+    "Reduce ailerons input / keep glare shield parallel to horizon",
+    "Steer towards aiming point, use small rudder inputs",
+    "Once airborne make a coordinated turn into the wind",
+    "Maintain runway track using ailerons",
+    "Correct for increasing crosswind during the climb",
+    "Proceed as normal take off (items 13-19)"
+  ],
+  "callouts": ["Runway [number], identified", "Approach sector and runway clear", "Runway heading verified", "Take-off power set", "Airspeed alive"],
+  "completion_standards": [
+    "Rotate at Vr + max 5 KIAS during strong crosswind (1/2 gust)",
+    "Runway track maintained using ailerons",
+    "Coordinated turn into the wind once airborne"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-12-SHORTTO",
+  "exercise": "12 Take-off and Climb",
+  "title": "Short field take-off",
+  "kind": "procedure",
+  "briefing": "Proceed as normal take-off, with the below changes: use all available runway length, full power against the brakes, and a lower rotation speed.",
+  "steps": [
+    "Line up items before or when crossing the stop-bar",
+    "Line up at the very beginning of the runway (use all available length)",
+    "Hold the brakes, look down to the far end of the runway",
+    "Feet on the brakes",
+    "Check compass to identify runway direction",
+    "Check the windsock, ailerons in the wind",
+    "Full power (100%) 2300 rpm",
+    "Check power / engine instruments",
+    "Release brakes, heels on the floor",
+    "Direction with feet",
+    "Rotate at 55 KIAS (Vr)",
+    "Accelerate in ground effect once airborne",
+    "Start climb when speed > 59 KIAS",
+    "Proceed as normal take off (items 13-19)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Full power (100%) 2300 rpm set and checked against the brakes",
+    "Rotate at 55 KIAS (Vr)",
+    "Accelerate in ground effect; start climb when speed > 59 KIAS"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-12-SOFTTO",
+  "exercise": "12 Take-off and Climb",
+  "title": "Soft field take-off",
+  "kind": "procedure",
+  "briefing": "Take-off from a soft surface (e.g. grass): a rolling take-off with back pressure on the stabilator to relieve the nose wheel.",
+  "steps": [
+    "Proceed as normal take off (items 1-6)",
+    "Make a rolling take off (especially on long grass)",
+    "Gently full power 100%",
+    "Check power / engine instruments",
+    "Direction with feet",
+    "Maintain back pressure on the stabilator",
+    "Release back pressure when nose wheel lifts off",
+    "Proceed as short field take off (items 11-13)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Rolling take-off, gently full power 100%",
+    "Back pressure maintained until the nose wheel lifts off",
+    "Then as short field take-off: rotate at 55 KIAS (Vr), accelerate in ground effect, start climb when speed > 59 KIAS"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-12-OBSTO",
+  "exercise": "12 Take-off and Climb",
+  "title": "Obstacle take-off",
+  "kind": "procedure",
+  "briefing": "Short field take-off technique with a steep initial climb at 59 KIAS to clear an obstacle after take-off.",
+  "steps": [
+    "Proceed as short field take off (items 1-11)",
+    "Initial climb 59 KIAS",
+    "Speed 80 KIAS after passing obstacle",
+    "Proceed as normal take off (items 13-19)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Initial climb at 59 KIAS until the obstacle is passed",
+    "Accelerate to 80 KIAS after passing the obstacle"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-CIRCUIT",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Normal circuit and approach",
+  "kind": "procedure",
+  "briefing": "Standard Exercise 13 circuit pattern flown at circuit altitude, ending on a stabilized final approach at 70 KIAS with flaps landing.",
+  "steps": [
+    "Climb to circuit altitude and level off",
+    "Speed 90 KIAS, power approx. 45%",
+    "Look out and turn to crosswind, 30 degrees bank",
+    "Climbing turn after passing 200 ft is permitted to stay in the circuit area (climbing turn max 20 degrees bank)",
+    "Look out and turn to downwind, 30 degrees bank",
+    "Downwind checks (FRESBL)",
+    "Turn to base leg when runway is 45 degrees behind",
+    "Reduce power to approx. 15%",
+    "Maintain altitude until 80 KIAS, start descent",
+    "Trim as required, PID",
+    "Turn to final, maximum 30 degrees of bank",
+    "On final: flaps LDG, 70 KIAS, trimmed (adjust power as required to maintain glide path)",
+    "Establish on stabilized glide path"
+  ],
+  "callouts": ["SPEED CHECKED"],
+  "completion_standards": [
+    "Circuit flown at 90 KIAS, approx. 45% power",
+    "Crosswind and downwind turns at 30 degrees bank (climbing turn max 20 degrees bank)",
+    "Base turn when runway is 45 degrees behind, power approx. 15%",
+    "Final: flaps LDG, 70 KIAS, trimmed, on a stabilized glide path"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-FRESBL",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Downwind checks (FRESBL)",
+  "kind": "memory",
+  "briefing": "Memory items performed on the downwind leg of the circuit: Flaps, Radio, Engine, Security, Brakes, Lights.",
+  "steps": [
+    "F - Flaps: check speed, call \"SPEED CHECKED\" -> select flaps take-off",
+    "R - Radio: downwind call (e.g., PH-RAB downwind runway 06)",
+    "E - Engine: instruments in green, fuel quantity & balance checked",
+    "S - Security: harnesses secure, loose items stowed",
+    "B - Brakes: check pressure, heels on floor",
+    "L - Lights: landing light ON"
+  ],
+  "callouts": ["SPEED CHECKED"],
+  "completion_standards": [
+    "Speed checked before selecting flaps take-off",
+    "Engine instruments in green, fuel quantity & balance checked",
+    "Harnesses secure, brakes checked, landing light ON"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-LDG",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Normal landing",
+  "kind": "procedure",
+  "briefing": "Standard landing from a final approach at 70 KIAS with flaps landing, flaring to touchdown on the main wheels.",
+  "steps": [
+    "Fly standard circuit",
+    "On final: flaps landing",
+    "70 KIAS final approach speed",
+    "Trim as required",
+    "Aim for the aiming point",
+    "Close the power lever gently",
+    "Start horizontal flight just before touchdown, and shift vision from the aiming point to the end of the runway or beyond using peripheral vision",
+    "Maintain directional control with rudder",
+    "Maintain runway centreline (lateral movement) using ailerons",
+    "Increase pitch attitude, maintain level flight (flare)",
+    "Touchdown on main wheels",
+    "Lower the nose gently",
+    "Elevator neutral / keep aileron in the wind",
+    "Decelerate by gently increasing brake pressure or as required",
+    "Vacate the runway when convenient",
+    "After passing the stop bar: perform the after landing checks (memory items)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "70 KIAS final approach speed with flaps landing",
+    "Touchdown on main wheels after a flare",
+    "After landing checks (memory items) performed after passing the stop bar"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-XWINDLDG",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Crosswind landing",
+  "kind": "procedure",
+  "briefing": "Landing in crosswind conditions: de-crab with rudder and bank into the wind to stay over the centreline at touchdown.",
+  "steps": [
+    "Fly standard circuit and landing (item 1-6)",
+    "Correct for crosswind on all legs",
+    "Start horizontal flight just before touch down",
+    "Use rudder to de-crab and line up with the centreline, at the same time:",
+    "Bank into the wind to stay above the centreline",
+    "Maintain direction with feet (point in distance)",
+    "Smoothly close power lever and increase pitch attitude for the flare",
+    "Land the aircraft in this attitude while maintaining the nose at the aiming point and the ailerons in the wind to stay over the centreline",
+    "Proceed as normal landing (items 13-16)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "De-crab with rudder lined up with the centreline while banking into the wind",
+    "Direction maintained with feet, ailerons in the wind",
+    "After landing checks (memory items) performed after passing the stop bar"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-SHORTLDG",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Short field landing",
+  "kind": "procedure",
+  "briefing": "Landing on a short field: a stabilized approach at 65 KIAS with the power closed in the tempo of the flare.",
+  "steps": [
+    "Fly standard circuit",
+    "Landing configuration set at beginning of final",
+    "Establish on stabilized glide path",
+    "Power / attitude 65 KIAS, trim",
+    "Landing procedure as normal landing (item 7-14)",
+    "But, close power lever gently in the tempo of the flare",
+    "Ideally the power should just be closed as the aircraft touches down (not before touchdown!)",
+    "Proceed as normal landing (items 12-16)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "65 KIAS on a stabilized final, trimmed",
+    "Power closed in the tempo of the flare, just as the aircraft touches down (not before touchdown!)"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-SOFTLDG",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Soft field landing (grass runway)",
+  "kind": "procedure",
+  "briefing": "Landing on a soft/grass runway: keep the aircraft rolling with backpressure on the elevator to relieve the nose wheel.",
+  "steps": [
+    "Fly standard circuit (items 1-13)",
+    "After touchdown and during taxi, maintain backpressure on the elevator to relieve the nose wheel pressure",
+    "Decelerate gently, but don't use excessive brakes",
+    "Keep aileron in the wind",
+    "Keep the aircraft rolling",
+    "Leave the runway when convenient",
+    "Perform the after landing checks while rolling"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Backpressure on the elevator maintained after touchdown and during taxi",
+    "Gentle deceleration without excessive brakes",
+    "After landing checks performed while rolling"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-TOUCHGO",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Touch and go",
+  "kind": "procedure",
+  "briefing": "Landing followed immediately by a take-off: reconfigure to flaps take-off and apply full power on the runway centreline.",
+  "steps": [
+    "Aim for the centreline",
+    "Set flaps take-off (visual check)",
+    "Full power 100% / 2300 RPM",
+    "Proceed as normal take off"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Flaps take-off set (visual check)",
+    "Full power 100% / 2300 RPM",
+    "Proceed as normal take off"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-13-GOAROUND",
+  "exercise": "13 Circuit, Approach and Landing",
+  "title": "Go-around",
+  "kind": "procedure",
+  "briefing": "Aborted approach: apply full power, arrest the descent and climb away in the take-off configuration.",
+  "steps": [
+    "Call: \"Going-around!\"",
+    "Full power (100%)",
+    "Pitch up to arrest the descent (look outside)",
+    "Set flaps take-off",
+    "Pitch for climb attitude (70 KIAS)",
+    "Maintain coordinated flight",
+    "Reset trim",
+    "Proceed as normal take off (items 12-14)"
+  ],
+  "callouts": ["Going-around!"],
+  "completion_standards": [
+    "Full power (100%) and descent arrested",
+    "Flaps take-off, climb attitude 70 KIAS",
+    "Coordinated flight, trim reset"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-1213E-RTO",
+  "exercise": "12/13E Circuit Emergencies",
+  "title": "Rejected take-off",
+  "kind": "emergency",
+  "briefing": "Circuit emergency procedure to abort the take-off roll: close the power immediately, stop on the runway and vacate.",
+  "steps": [
+    "Call out: \"Aborting!\"",
+    "Close the power immediately",
+    "Maintain runway centreline using rudder",
+    "Apply brakes as necessary",
+    "Elevator neutral / aileron into the wind",
+    "RT call: \"call sign, rejected take-off\"",
+    "Vacate the runway as soon as practical"
+  ],
+  "callouts": ["Aborting!", "call sign, rejected take-off"],
+  "completion_standards": [
+    "Power closed immediately, runway centreline maintained",
+    "Brakes applied as necessary",
+    "Runway vacated as soon as practical"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-1213E-SEFATO",
+  "exercise": "12/13E Circuit Emergencies",
+  "title": "Simulated engine failure after take-off (SEFATO)",
+  "kind": "emergency",
+  "briefing": "Circuit emergency procedure for an engine failure after take-off: pitch for the glide, select a landing area and land ahead.",
+  "steps": [
+    "Pitch for glide attitude",
+    "Select a landing area",
+    "Avoid obstacles",
+    "Troubleshoot (time permitting)",
+    "Flaps T/O when landing assured",
+    "Adjust attitude for 75 KIAS (70 KIAS with flaps)",
+    "Plan full flaps landing",
+    "Crash drill",
+    "Touchdown",
+    "For actual failure: evacuate the airplane and call RAC. (For training: go-around at minimum safe height)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Glide attitude for 75 KIAS (70 KIAS with flaps)",
+    "Flaps T/O when landing assured, plan full flaps landing",
+    "For training: go-around at minimum safe height; for actual failure: evacuate the airplane and call RAC"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-1213E-GLIDEIN",
+  "exercise": "12/13E Circuit Emergencies",
+  "title": "Glide in (from circuit altitude)",
+  "kind": "procedure",
+  "briefing": "Power-off approach from circuit altitude. Judge the power closed point based on wind direction and speed to reach the field safely; S-turns and side-slipping must only be used as a last resort to lose excess height, not as a primary method to correct the glide path.",
+  "steps": [
+    "Fly standard circuit (items 1-6), but",
+    "No flaps on downwind, speed 90 KIAS",
+    "Maintain circuit altitude on downwind and/or base depending on wind direction and speed",
+    "Maintain speed 90 KIAS",
+    "Close power lever when landing is assured (estimate based on wind and conditions)",
+    "Glide speed 75 KIAS",
+    "Select flaps when landing assured",
+    "Adjust attitude to maintain 75 KIAS",
+    "Final checks",
+    "Plan full flaps landing, touch down at 60 KIAS",
+    "Proceed as normal landing (items 7-16)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "90 KIAS on downwind/base without flaps",
+    "Power closed when landing is assured, glide speed 75 KIAS",
+    "Full flaps landing, touch down at 60 KIAS"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-1213E-FLAPLESS",
+  "exercise": "12/13E Circuit Emergencies",
+  "title": "Flapless landing",
+  "kind": "procedure",
+  "briefing": "Landing without flaps: higher approach speeds and a higher nose attitude, with no flare at touchdown.",
+  "steps": [
+    "Fly standard circuit",
+    "Maintain 90 KIAS on downwind",
+    "Speed 85 KIAS on base leg",
+    "Establish on stabilized glide path",
+    "Power / attitude 75 KIAS on final",
+    "Nose attitude higher than for normal landing",
+    "Aim for the aiming point",
+    "Close power lever gently",
+    "Do not flare out, maintain a slightly higher attitude during touchdown",
+    "Proceed as normal landing (items 12-16)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "90 KIAS on downwind, 85 KIAS on base leg, 75 KIAS on final",
+    "No flare; slightly higher attitude maintained during touchdown"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-1213E-WAVEOFF",
+  "exercise": "12/13E Circuit Emergencies",
+  "title": "Wave-off",
+  "kind": "procedure",
+  "briefing": "A wave-off is a go-around below 50 ft AGL, flown without turns at low altitude.",
+  "steps": [
+    "Wave-off is a go-around below 50 ft AGL",
+    "Don't attempt to make turns at low altitude",
+    "Due to aircraft inertia, the main wheels may briefly touch the runway (do not pull back excessively to prevent this, and do not deliberately land)",
+    "Proceed as go-around"
+  ],
+  "callouts": ["Going-around!"],
+  "completion_standards": [
+    "Go-around initiated below 50 ft AGL without turns at low altitude",
+    "No excessive pull-back if the main wheels briefly touch the runway; do not deliberately land",
+    "Proceed as go-around"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-15-STEEPTURN",
+  "exercise": "15 Advanced Turning",
+  "title": "Steep turn (45 degrees bank)",
+  "kind": "procedure",
+  "briefing": "Exercise 15 advanced turning: a coordinated turn at 45 degrees of bank with added power to maintain 110 KIAS.",
+  "steps": [
+    "Look out - scan for traffic and select an outside reference point",
+    "Speed 110 KIAS",
+    "Roll into 45 degrees bank, use rudder to counteract adverse yaw",
+    "Passing 30 degrees bank, increase power by approx. 10%",
+    "Look out and check: bank / slip indicator, altitude / pitch, maintain 110 KIAS",
+    "Roll out, use rudder to counteract adverse yaw",
+    "When passing 30 degrees of bank, reduce power by approx. 10%",
+    "Adjust pitch for horizontal flight"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "45 degrees of bank, coordinated (rudder against adverse yaw)",
+    "Power increased approx. 10% passing 30 degrees bank and reduced approx. 10% when rolling out through 30 degrees of bank",
+    "110 KIAS and altitude maintained"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-15-SPIRALREC",
+  "exercise": "15 Advanced Turning",
+  "title": "Spiral dive recovery",
+  "kind": "emergency",
+  "briefing": "Recovery from a spiral dive (the spiral dive entry is flown with FI only: steep turn with 45 degrees of bank, nose lowered gently below the horizon, noticing increase of speed and G force).",
+  "steps": [
+    "Reduce the power",
+    "Roll out gently, wings level",
+    "Pitch up gently to climb attitude",
+    "Full power when nose passes the horizon",
+    "Climb back to desired altitude"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Power reduced, wings level before pitching up",
+    "Full power when nose passes the horizon",
+    "Climb back to desired altitude"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-16-FL",
+  "exercise": "16 Forced Landing",
+  "title": "Forced landing procedure",
+  "kind": "emergency",
+  "briefing": "Exercise 16 procedure for an engine failure in flight: glide at 75 KIAS, select a field, troubleshoot, and fly a pattern via the 1000 ft point to a full flaps landing.",
+  "steps": [
+    "Maintain altitude till speed bleeds off to 75 KIAS and start looking for a suitable field",
+    "Pitch for glide attitude and trim for 75 KIAS",
+    "Depending on altitude/position turn downwind and select a landing area, below 1200 ft turn direct base leg for the most suitable landing area",
+    "Perform abbreviated troubleshoot",
+    "Select the most suitable landing area within reach and use to the 1000 ft point",
+    "May Day call / transponder on 7700 / ELT Man. (T) (when time permitting)",
+    "Proceed to the 1000 ft point",
+    "Perform expanded trouble shoot if possible, perform the restart procedure",
+    "After passing the 1000 ft point turn to base leg",
+    "On final aim at 1/3 of the field to guarantee making the field",
+    "Flaps T/O when landing assured",
+    "Adjust attitude for 70 KIAS",
+    "Plan full flaps landing 60 KIAS",
+    "When landing is assured, shift aiming point to the beginning of runway or field",
+    "Perform crash drill (memory items)",
+    "Avoid obstacles",
+    "Evacuate the airplane and call RAC"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Glide attitude trimmed for 75 KIAS",
+    "Below 1200 ft turn direct base leg for the most suitable landing area",
+    "May Day call / transponder on 7700 / ELT Man. (T) when time permitting",
+    "On final aim at 1/3 of the field; flaps T/O when landing assured, 70 KIAS",
+    "Full flaps landing 60 KIAS"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-16-CRASHDRILL",
+  "exercise": "16 Forced Landing",
+  "title": "Crash drills",
+  "kind": "memory",
+  "briefing": "Memory items performed before touchdown in a forced landing to secure the aircraft. (T) = TOUCH DRILL ONLY!!!",
+  "steps": [
+    "Seat belts - fastened",
+    "Fuel selector - closed (T)",
+    "Flaps - set",
+    "Electric Master - off (T)"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "(T) = TOUCH DRILL ONLY!!! items are only touched, not actuated, in training",
+    "After landing: evacuate the airplane and call RAC"
+  ],
+  "source": "RAC QRC v1.1"
+},
+{
+  "id": "PROC-17-PRECAUT",
+  "exercise": "17 Precautionary Landing",
+  "title": "Precautionary landing procedure",
+  "kind": "procedure",
+  "briefing": "Consider a precautionary landing when weather deteriorates below VMC minima, after UDP, or other circumstance affecting flight safety that require a precautionary landing; the aircraft should be technically in a good condition. The field is inspected from the air before landing.",
+  "steps": [
+    "Perform downwind checks and select flaps T/O",
+    "Fly down the wind",
+    "PAN PAN call / transponder on 7700 / ELT man (T)",
+    "Position on downwind of the suitable field",
+    "Fly a close circuit at 500 ft AGL",
+    "Be aware of high obstacles",
+    "Make a descending turn towards the selected area and carry out an inspection run at 200 ft AGL; check the condition of the landing area",
+    "Check the compass direction in poor visibility",
+    "Aim for a landmark in good visibility",
+    "Climb to 500 ft AGL, flaps up on the up-wind leg",
+    "Turn to crosswind",
+    "Check the location of the landing area",
+    "Continue the turn to downwind, downwind checks",
+    "Turn to final when the landing area is 60 degrees behind the wing",
+    "Carry out a short field landing",
+    "Evacuate the airplane and call RAC"
+  ],
+  "callouts": [],
+  "completion_standards": [
+    "Close circuit at 500 ft AGL, inspection run at 200 ft AGL",
+    "Turn to final when the landing area is 60 degrees behind the wing",
+    "Short field landing carried out",
+    "Landing field requirements: no obstacles on final (or upwind), long enough (min. 300 m), headwind (or light crosswind), flat, preference for (short) grassland over plowed land"
+  ],
+  "source": "RAC QRC v1.1"
+}
+]}
